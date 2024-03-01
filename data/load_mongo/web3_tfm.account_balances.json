@@ -1,0 +1,6628 @@
+[{
+  "_id": {
+    "$oid": "65d0cd35bbc8ef6de65fef58"
+  },
+  "address": "0x8315177aB297bA92A06054cE80a67Ed4DBd7ed3a",
+  "balance": 1490629.8752511616,
+  "block_number": 19236754,
+  "date": "2024-02-15",
+  "detail": [
+    {
+      "detail_date": "2023-01-01",
+      "detail_balance": 821546.4582363061
+    },
+    {
+      "detail_date": "2023-01-02",
+      "detail_balance": 821872.8564073273
+    },
+    {
+      "detail_date": "2023-01-03",
+      "detail_balance": 822783.5991515421
+    },
+    {
+      "detail_date": "2023-01-04",
+      "detail_balance": 823342.9299323577
+    },
+    {
+      "detail_date": "2023-01-05",
+      "detail_balance": 823973.4622745682
+    },
+    {
+      "detail_date": "2023-01-06",
+      "detail_balance": 824793.6503180988
+    },
+    {
+      "detail_date": "2023-01-07",
+      "detail_balance": 824336.6667510245
+    },
+    {
+      "detail_date": "2023-01-08",
+      "detail_balance": 824391.8264901052
+    },
+    {
+      "detail_date": "2023-01-09",
+      "detail_balance": 824551.4983876689
+    },
+    {
+      "detail_date": "2023-01-10",
+      "detail_balance": 824869.9606500389
+    },
+    {
+      "detail_date": "2023-01-11",
+      "detail_balance": 825727.506506934
+    },
+    {
+      "detail_date": "2023-01-12",
+      "detail_balance": 826678.1825667095
+    },
+    {
+      "detail_date": "2023-01-13",
+      "detail_balance": 827007.3924005026
+    },
+    {
+      "detail_date": "2023-01-14",
+      "detail_balance": 828806.4537859919
+    },
+    {
+      "detail_date": "2023-01-15",
+      "detail_balance": 829171.4614844744
+    },
+    {
+      "detail_date": "2023-01-16",
+      "detail_balance": 830032.6002344184
+    },
+    {
+      "detail_date": "2023-01-17",
+      "detail_balance": 830172.8172852225
+    },
+    {
+      "detail_date": "2023-01-18",
+      "detail_balance": 830967.1983220873
+    },
+    {
+      "detail_date": "2023-01-19",
+      "detail_balance": 836042.1510982213
+    },
+    {
+      "detail_date": "2023-01-20",
+      "detail_balance": 836875.1025942815
+    },
+    {
+      "detail_date": "2023-01-21",
+      "detail_balance": 838107.9436635296
+    },
+    {
+      "detail_date": "2023-01-22",
+      "detail_balance": 839180.3290139311
+    },
+    {
+      "detail_date": "2023-01-23",
+      "detail_balance": 839568.7113600296
+    },
+    {
+      "detail_date": "2023-01-24",
+      "detail_balance": 842410.4561944907
+    },
+    {
+      "detail_date": "2023-01-25",
+      "detail_balance": 844722.257877653
+    },
+    {
+      "detail_date": "2023-01-26",
+      "detail_balance": 848621.1765913984
+    },
+    {
+      "detail_date": "2023-01-27",
+      "detail_balance": 849738.2925735951
+    },
+    {
+      "detail_date": "2023-01-28",
+      "detail_balance": 850740.2014374802
+    },
+    {
+      "detail_date": "2023-01-29",
+      "detail_balance": 851819.9457549885
+    },
+    {
+      "detail_date": "2023-01-30",
+      "detail_balance": 852975.305866906
+    },
+    {
+      "detail_date": "2023-01-31",
+      "detail_balance": 854014.7618438351
+    },
+    {
+      "detail_date": "2023-02-01",
+      "detail_balance": 857723.4023482705
+    },
+    {
+      "detail_date": "2023-02-02",
+      "detail_balance": 859083.5162566783
+    },
+    {
+      "detail_date": "2023-02-03",
+      "detail_balance": 860821.412578874
+    },
+    {
+      "detail_date": "2023-02-04",
+      "detail_balance": 863503.1993925341
+    },
+    {
+      "detail_date": "2023-02-05",
+      "detail_balance": 864568.2382178275
+    },
+    {
+      "detail_date": "2023-02-06",
+      "detail_balance": 866094.8276863948
+    },
+    {
+      "detail_date": "2023-02-07",
+      "detail_balance": 868615.8194720538
+    },
+    {
+      "detail_date": "2023-02-08",
+      "detail_balance": 872343.4274144341
+    },
+    {
+      "detail_date": "2023-02-09",
+      "detail_balance": 874196.2783652139
+    },
+    {
+      "detail_date": "2023-02-10",
+      "detail_balance": 876466.7665022159
+    },
+    {
+      "detail_date": "2023-02-11",
+      "detail_balance": 878854.1796510931
+    },
+    {
+      "detail_date": "2023-02-12",
+      "detail_balance": 882451.3759144382
+    },
+    {
+      "detail_date": "2023-02-13",
+      "detail_balance": 884599.0000303343
+    },
+    {
+      "detail_date": "2023-02-14",
+      "detail_balance": 886579.2236298451
+    },
+    {
+      "detail_date": "2023-02-15",
+      "detail_balance": 890297.9563647466
+    },
+    {
+      "detail_date": "2023-02-16",
+      "detail_balance": 895410.9327796224
+    },
+    {
+      "detail_date": "2023-02-17",
+      "detail_balance": 901415.1697532331
+    },
+    {
+      "detail_date": "2023-02-18",
+      "detail_balance": 907759.3568539539
+    },
+    {
+      "detail_date": "2023-02-19",
+      "detail_balance": 910777.6093390139
+    },
+    {
+      "detail_date": "2023-02-20",
+      "detail_balance": 916309.6042551348
+    },
+    {
+      "detail_date": "2023-02-21",
+      "detail_balance": 923219.3788562189
+    },
+    {
+      "detail_date": "2023-02-22",
+      "detail_balance": 926425.0225929806
+    },
+    {
+      "detail_date": "2023-02-23",
+      "detail_balance": 933416.9371707349
+    },
+    {
+      "detail_date": "2023-02-24",
+      "detail_balance": 934690.1407622802
+    },
+    {
+      "detail_date": "2023-02-25",
+      "detail_balance": 935657.9353629156
+    },
+    {
+      "detail_date": "2023-02-26",
+      "detail_balance": 936285.1073796897
+    },
+    {
+      "detail_date": "2023-02-27",
+      "detail_balance": 938608.8909535039
+    },
+    {
+      "detail_date": "2023-02-28",
+      "detail_balance": 941077.5325237232
+    },
+    {
+      "detail_date": "2023-03-01",
+      "detail_balance": 946136.7607471532
+    },
+    {
+      "detail_date": "2023-03-02",
+      "detail_balance": 949135.5229135988
+    },
+    {
+      "detail_date": "2023-03-03",
+      "detail_balance": 950413.6406838117
+    },
+    {
+      "detail_date": "2023-03-04",
+      "detail_balance": 952905.8663957892
+    },
+    {
+      "detail_date": "2023-03-05",
+      "detail_balance": 954266.9768344695
+    },
+    {
+      "detail_date": "2023-03-06",
+      "detail_balance": 954694.9354357918
+    },
+    {
+      "detail_date": "2023-03-07",
+      "detail_balance": 956005.4411323991
+    },
+    {
+      "detail_date": "2023-03-08",
+      "detail_balance": 956095.0900115252
+    },
+    {
+      "detail_date": "2023-03-09",
+      "detail_balance": 956842.8178811142
+    },
+    {
+      "detail_date": "2023-03-10",
+      "detail_balance": 958529.7155038238
+    },
+    {
+      "detail_date": "2023-03-11",
+      "detail_balance": 964492.9088355817
+    },
+    {
+      "detail_date": "2023-03-12",
+      "detail_balance": 966523.7538871286
+    },
+    {
+      "detail_date": "2023-03-13",
+      "detail_balance": 973432.5200030834
+    },
+    {
+      "detail_date": "2023-03-14",
+      "detail_balance": 976209.5294041935
+    },
+    {
+      "detail_date": "2023-03-15",
+      "detail_balance": 978528.3406400604
+    },
+    {
+      "detail_date": "2023-03-16",
+      "detail_balance": 985411.545121278
+    },
+    {
+      "detail_date": "2023-03-17",
+      "detail_balance": 986220.1467305734
+    },
+    {
+      "detail_date": "2023-03-18",
+      "detail_balance": 987281.7953195646
+    },
+    {
+      "detail_date": "2023-03-19",
+      "detail_balance": 998833.7781633111
+    },
+    {
+      "detail_date": "2023-03-20",
+      "detail_balance": 1007045.108942749
+    },
+    {
+      "detail_date": "2023-03-21",
+      "detail_balance": 1012989.3600407756
+    },
+    {
+      "detail_date": "2023-03-22",
+      "detail_balance": 1020501.7684342721
+    },
+    {
+      "detail_date": "2023-03-23",
+      "detail_balance": 1066808.107914356
+    },
+    {
+      "detail_date": "2023-03-24",
+      "detail_balance": 1072125.454014522
+    },
+    {
+      "detail_date": "2023-03-25",
+      "detail_balance": 1073596.6857949384
+    },
+    {
+      "detail_date": "2023-03-26",
+      "detail_balance": 1075490.5920394368
+    },
+    {
+      "detail_date": "2023-03-27",
+      "detail_balance": 1077434.4361556096
+    },
+    {
+      "detail_date": "2023-03-28",
+      "detail_balance": 1080004.2181889971
+    },
+    {
+      "detail_date": "2023-03-29",
+      "detail_balance": 1082043.5385922191
+    },
+    {
+      "detail_date": "2023-03-30",
+      "detail_balance": 1081347.317608099
+    },
+    {
+      "detail_date": "2023-03-31",
+      "detail_balance": 1081131.7770911702
+    },
+    {
+      "detail_date": "2023-04-01",
+      "detail_balance": 1081284.7865997145
+    },
+    {
+      "detail_date": "2023-04-02",
+      "detail_balance": 1082222.5952340818
+    },
+    {
+      "detail_date": "2023-04-03",
+      "detail_balance": 1086776.9756474113
+    },
+    {
+      "detail_date": "2023-04-04",
+      "detail_balance": 1087535.548479332
+    },
+    {
+      "detail_date": "2023-04-05",
+      "detail_balance": 1088500.2777626077
+    },
+    {
+      "detail_date": "2023-04-06",
+      "detail_balance": 1092166.3875096748
+    },
+    {
+      "detail_date": "2023-04-07",
+      "detail_balance": 1093298.4459908984
+    },
+    {
+      "detail_date": "2023-04-08",
+      "detail_balance": 1093759.0947650108
+    },
+    {
+      "detail_date": "2023-04-09",
+      "detail_balance": 1094740.544428095
+    },
+    {
+      "detail_date": "2023-04-10",
+      "detail_balance": 1090706.1679996694
+    },
+    {
+      "detail_date": "2023-04-11",
+      "detail_balance": 1095045.2768978446
+    },
+    {
+      "detail_date": "2023-04-12",
+      "detail_balance": 1091241.241484137
+    },
+    {
+      "detail_date": "2023-04-13",
+      "detail_balance": 1093816.4293655402
+    },
+    {
+      "detail_date": "2023-04-14",
+      "detail_balance": 1096244.6880866103
+    },
+    {
+      "detail_date": "2023-04-15",
+      "detail_balance": 1097333.2681939178
+    },
+    {
+      "detail_date": "2023-04-16",
+      "detail_balance": 1097642.5972216935
+    },
+    {
+      "detail_date": "2023-04-17",
+      "detail_balance": 1097675.057352675
+    },
+    {
+      "detail_date": "2023-04-18",
+      "detail_balance": 1097566.3792799246
+    },
+    {
+      "detail_date": "2023-04-19",
+      "detail_balance": 1091420.8856423888
+    },
+    {
+      "detail_date": "2023-04-20",
+      "detail_balance": 1092606.3939022329
+    },
+    {
+      "detail_date": "2023-04-21",
+      "detail_balance": 1093789.720780084
+    },
+    {
+      "detail_date": "2023-04-22",
+      "detail_balance": 1095522.270003792
+    },
+    {
+      "detail_date": "2023-04-23",
+      "detail_balance": 1096263.9450486966
+    },
+    {
+      "detail_date": "2023-04-24",
+      "detail_balance": 1087570.1386338589
+    },
+    {
+      "detail_date": "2023-04-25",
+      "detail_balance": 1088484.326554927
+    },
+    {
+      "detail_date": "2023-04-26",
+      "detail_balance": 1073754.5445174472
+    },
+    {
+      "detail_date": "2023-04-27",
+      "detail_balance": 1075924.555632016
+    },
+    {
+      "detail_date": "2023-04-28",
+      "detail_balance": 1076937.2348396336
+    },
+    {
+      "detail_date": "2023-04-29",
+      "detail_balance": 1077616.1558445627
+    },
+    {
+      "detail_date": "2023-04-30",
+      "detail_balance": 1077685.5578996595
+    },
+    {
+      "detail_date": "2023-05-01",
+      "detail_balance": 1078579.608132425
+    },
+    {
+      "detail_date": "2023-05-02",
+      "detail_balance": 1076851.2355304647
+    },
+    {
+      "detail_date": "2023-05-03",
+      "detail_balance": 1080343.5664532965
+    },
+    {
+      "detail_date": "2023-05-04",
+      "detail_balance": 1080562.9856986774
+    },
+    {
+      "detail_date": "2023-05-05",
+      "detail_balance": 1082541.1969379778
+    },
+    {
+      "detail_date": "2023-05-06",
+      "detail_balance": 1083903.8207440216
+    },
+    {
+      "detail_date": "2023-05-07",
+      "detail_balance": 1085837.6282440724
+    },
+    {
+      "detail_date": "2023-05-08",
+      "detail_balance": 1087153.4804089197
+    },
+    {
+      "detail_date": "2023-05-09",
+      "detail_balance": 1089059.1303945757
+    },
+    {
+      "detail_date": "2023-05-10",
+      "detail_balance": 1087400.1701929844
+    },
+    {
+      "detail_date": "2023-05-11",
+      "detail_balance": 1093958.2896411682
+    },
+    {
+      "detail_date": "2023-05-12",
+      "detail_balance": 1084699.6507518382
+    },
+    {
+      "detail_date": "2023-05-13",
+      "detail_balance": 1085939.62458579
+    },
+    {
+      "detail_date": "2023-05-14",
+      "detail_balance": 1074350.0158187905
+    },
+    {
+      "detail_date": "2023-05-15",
+      "detail_balance": 1075334.3581466386
+    },
+    {
+      "detail_date": "2023-05-16",
+      "detail_balance": 1075695.6958275253
+    },
+    {
+      "detail_date": "2023-05-17",
+      "detail_balance": 1076728.257698558
+    },
+    {
+      "detail_date": "2023-05-18",
+      "detail_balance": 1071391.8337627281
+    },
+    {
+      "detail_date": "2023-05-19",
+      "detail_balance": 1072335.146080154
+    },
+    {
+      "detail_date": "2023-05-20",
+      "detail_balance": 1072356.7452203399
+    },
+    {
+      "detail_date": "2023-05-21",
+      "detail_balance": 1072179.056617616
+    },
+    {
+      "detail_date": "2023-05-22",
+      "detail_balance": 1072717.0506279138
+    },
+    {
+      "detail_date": "2023-05-23",
+      "detail_balance": 1074079.5820285517
+    },
+    {
+      "detail_date": "2023-05-24",
+      "detail_balance": 1074479.3390040807
+    },
+    {
+      "detail_date": "2023-05-25",
+      "detail_balance": 1075011.3243149258
+    },
+    {
+      "detail_date": "2023-05-26",
+      "detail_balance": 1076018.348083502
+    },
+    {
+      "detail_date": "2023-05-27",
+      "detail_balance": 1076313.8600894674
+    },
+    {
+      "detail_date": "2023-05-28",
+      "detail_balance": 1077202.75929309
+    },
+    {
+      "detail_date": "2023-05-29",
+      "detail_balance": 1077456.5276391332
+    },
+    {
+      "detail_date": "2023-05-30",
+      "detail_balance": 1078476.226747271
+    },
+    {
+      "detail_date": "2023-05-31",
+      "detail_balance": 1077795.512908468
+    },
+    {
+      "detail_date": "2023-06-01",
+      "detail_balance": 1079402.6242910998
+    },
+    {
+      "detail_date": "2023-06-02",
+      "detail_balance": 1080875.80493205
+    },
+    {
+      "detail_date": "2023-06-03",
+      "detail_balance": 1084529.9571241231
+    },
+    {
+      "detail_date": "2023-06-04",
+      "detail_balance": 1087961.819583473
+    },
+    {
+      "detail_date": "2023-06-05",
+      "detail_balance": 1088724.8992461448
+    },
+    {
+      "detail_date": "2023-06-06",
+      "detail_balance": 1091620.8251044746
+    },
+    {
+      "detail_date": "2023-06-07",
+      "detail_balance": 1094135.7096035795
+    },
+    {
+      "detail_date": "2023-06-08",
+      "detail_balance": 1095061.7284158054
+    },
+    {
+      "detail_date": "2023-06-09",
+      "detail_balance": 1097115.6966918577
+    },
+    {
+      "detail_date": "2023-06-10",
+      "detail_balance": 1098750.6599437331
+    },
+    {
+      "detail_date": "2023-06-11",
+      "detail_balance": 1102395.7740624573
+    },
+    {
+      "detail_date": "2023-06-12",
+      "detail_balance": 1105774.2618043388
+    },
+    {
+      "detail_date": "2023-06-13",
+      "detail_balance": 1110573.1203623842
+    },
+    {
+      "detail_date": "2023-06-14",
+      "detail_balance": 1115666.3535965024
+    },
+    {
+      "detail_date": "2023-06-15",
+      "detail_balance": 1120617.7285819608
+    },
+    {
+      "detail_date": "2023-06-16",
+      "detail_balance": 1126247.0087397706
+    },
+    {
+      "detail_date": "2023-06-17",
+      "detail_balance": 1118417.4765004474
+    },
+    {
+      "detail_date": "2023-06-18",
+      "detail_balance": 1122560.880530278
+    },
+    {
+      "detail_date": "2023-06-19",
+      "detail_balance": 1125326.3545946775
+    },
+    {
+      "detail_date": "2023-06-20",
+      "detail_balance": 1132970.8635441095
+    },
+    {
+      "detail_date": "2023-06-21",
+      "detail_balance": 1138418.7778936215
+    },
+    {
+      "detail_date": "2023-06-22",
+      "detail_balance": 1139750.0557600122
+    },
+    {
+      "detail_date": "2023-06-23",
+      "detail_balance": 1141719.658279456
+    },
+    {
+      "detail_date": "2023-06-24",
+      "detail_balance": 1143077.598790762
+    },
+    {
+      "detail_date": "2023-06-25",
+      "detail_balance": 1147680.1125147403
+    },
+    {
+      "detail_date": "2023-06-26",
+      "detail_balance": 1152741.3413681134
+    },
+    {
+      "detail_date": "2023-06-27",
+      "detail_balance": 1147886.35191871
+    },
+    {
+      "detail_date": "2023-06-28",
+      "detail_balance": 1150302.4611872642
+    },
+    {
+      "detail_date": "2023-06-29",
+      "detail_balance": 1152288.0522332538
+    },
+    {
+      "detail_date": "2023-06-30",
+      "detail_balance": 1156231.243897299
+    },
+    {
+      "detail_date": "2023-07-01",
+      "detail_balance": 1158490.6079214055
+    },
+    {
+      "detail_date": "2023-07-02",
+      "detail_balance": 1162464.0188707756
+    },
+    {
+      "detail_date": "2023-07-03",
+      "detail_balance": 1165583.893613318
+    },
+    {
+      "detail_date": "2023-07-04",
+      "detail_balance": 1167803.0338843565
+    },
+    {
+      "detail_date": "2023-07-05",
+      "detail_balance": 1150522.236318021
+    },
+    {
+      "detail_date": "2023-07-06",
+      "detail_balance": 1122232.577985625
+    },
+    {
+      "detail_date": "2023-07-07",
+      "detail_balance": 1123017.61059811
+    },
+    {
+      "detail_date": "2023-07-08",
+      "detail_balance": 1126007.970732163
+    },
+    {
+      "detail_date": "2023-07-09",
+      "detail_balance": 1129191.0453174955
+    },
+    {
+      "detail_date": "2023-07-10",
+      "detail_balance": 1131113.4289340202
+    },
+    {
+      "detail_date": "2023-07-11",
+      "detail_balance": 1134309.7323832796
+    },
+    {
+      "detail_date": "2023-07-12",
+      "detail_balance": 1138012.330063161
+    },
+    {
+      "detail_date": "2023-07-13",
+      "detail_balance": 1142176.6977230657
+    },
+    {
+      "detail_date": "2023-07-14",
+      "detail_balance": 1144553.6680884915
+    },
+    {
+      "detail_date": "2023-07-15",
+      "detail_balance": 1148739.676833666
+    },
+    {
+      "detail_date": "2023-07-16",
+      "detail_balance": 1152880.51801123
+    },
+    {
+      "detail_date": "2023-07-17",
+      "detail_balance": 1139315.7212451808
+    },
+    {
+      "detail_date": "2023-07-18",
+      "detail_balance": 1141957.592798124
+    },
+    {
+      "detail_date": "2023-07-19",
+      "detail_balance": 1144162.930095123
+    },
+    {
+      "detail_date": "2023-07-20",
+      "detail_balance": 1146641.1217787713
+    },
+    {
+      "detail_date": "2023-07-21",
+      "detail_balance": 1148619.6313832488
+    },
+    {
+      "detail_date": "2023-07-22",
+      "detail_balance": 1151613.5447588523
+    },
+    {
+      "detail_date": "2023-07-23",
+      "detail_balance": 1154319.838023651
+    },
+    {
+      "detail_date": "2023-07-24",
+      "detail_balance": 1157070.5569915536
+    },
+    {
+      "detail_date": "2023-07-25",
+      "detail_balance": 1135494.2649828794
+    },
+    {
+      "detail_date": "2023-07-26",
+      "detail_balance": 1137711.6395516277
+    },
+    {
+      "detail_date": "2023-07-27",
+      "detail_balance": 1140586.3559948425
+    },
+    {
+      "detail_date": "2023-07-28",
+      "detail_balance": 1141369.9314522923
+    },
+    {
+      "detail_date": "2023-07-29",
+      "detail_balance": 1144113.05638241
+    },
+    {
+      "detail_date": "2023-07-30",
+      "detail_balance": 1146736.9437695558
+    },
+    {
+      "detail_date": "2023-07-31",
+      "detail_balance": 1149372.3621463678
+    },
+    {
+      "detail_date": "2023-08-01",
+      "detail_balance": 1154609.1377323752
+    },
+    {
+      "detail_date": "2023-08-02",
+      "detail_balance": 1156520.9991964141
+    },
+    {
+      "detail_date": "2023-08-03",
+      "detail_balance": 1145129.3123290949
+    },
+    {
+      "detail_date": "2023-08-04",
+      "detail_balance": 1151782.5509800636
+    },
+    {
+      "detail_date": "2023-08-05",
+      "detail_balance": 1153647.0052831806
+    },
+    {
+      "detail_date": "2023-08-06",
+      "detail_balance": 1156103.146991975
+    },
+    {
+      "detail_date": "2023-08-07",
+      "detail_balance": 1157845.2893214684
+    },
+    {
+      "detail_date": "2023-08-08",
+      "detail_balance": 1161720.1533473074
+    },
+    {
+      "detail_date": "2023-08-09",
+      "detail_balance": 1165265.896253149
+    },
+    {
+      "detail_date": "2023-08-10",
+      "detail_balance": 1157310.737423692
+    },
+    {
+      "detail_date": "2023-08-11",
+      "detail_balance": 1159348.566034844
+    },
+    {
+      "detail_date": "2023-08-12",
+      "detail_balance": 1161776.4295467848
+    },
+    {
+      "detail_date": "2023-08-13",
+      "detail_balance": 1164215.1144567267
+    },
+    {
+      "detail_date": "2023-08-14",
+      "detail_balance": 1170066.5968348607
+    },
+    {
+      "detail_date": "2023-08-15",
+      "detail_balance": 1173568.9460230705
+    },
+    {
+      "detail_date": "2023-08-16",
+      "detail_balance": 1174945.0317530893
+    },
+    {
+      "detail_date": "2023-08-17",
+      "detail_balance": 1180208.6409782511
+    },
+    {
+      "detail_date": "2023-08-18",
+      "detail_balance": 1185207.256198863
+    },
+    {
+      "detail_date": "2023-08-19",
+      "detail_balance": 1186578.926881836
+    },
+    {
+      "detail_date": "2023-08-20",
+      "detail_balance": 1186406.9577118303
+    },
+    {
+      "detail_date": "2023-08-21",
+      "detail_balance": 1188619.36976746
+    },
+    {
+      "detail_date": "2023-08-22",
+      "detail_balance": 1192445.038382796
+    },
+    {
+      "detail_date": "2023-08-23",
+      "detail_balance": 1165993.980633455
+    },
+    {
+      "detail_date": "2023-08-24",
+      "detail_balance": 1169804.0501493618
+    },
+    {
+      "detail_date": "2023-08-25",
+      "detail_balance": 1172370.8357232742
+    },
+    {
+      "detail_date": "2023-08-26",
+      "detail_balance": 1178606.027250092
+    },
+    {
+      "detail_date": "2023-08-27",
+      "detail_balance": 1184755.7138556684
+    },
+    {
+      "detail_date": "2023-08-28",
+      "detail_balance": 1188163.6755650174
+    },
+    {
+      "detail_date": "2023-08-29",
+      "detail_balance": 1191882.9234861578
+    },
+    {
+      "detail_date": "2023-08-30",
+      "detail_balance": 1193543.1883491003
+    },
+    {
+      "detail_date": "2023-08-31",
+      "detail_balance": 1188232.1231439628
+    },
+    {
+      "detail_date": "2023-09-01",
+      "detail_balance": 1193879.472196265
+    },
+    {
+      "detail_date": "2023-09-02",
+      "detail_balance": 1197017.2627713187
+    },
+    {
+      "detail_date": "2023-09-03",
+      "detail_balance": 1201187.6778118163
+    },
+    {
+      "detail_date": "2023-09-04",
+      "detail_balance": 1170604.6967787056
+    },
+    {
+      "detail_date": "2023-09-05",
+      "detail_balance": 1173304.0001723394
+    },
+    {
+      "detail_date": "2023-09-06",
+      "detail_balance": 1168052.2883900495
+    },
+    {
+      "detail_date": "2023-09-07",
+      "detail_balance": 1171247.6408559228
+    },
+    {
+      "detail_date": "2023-09-08",
+      "detail_balance": 1173726.5922939656
+    },
+    {
+      "detail_date": "2023-09-09",
+      "detail_balance": 1177418.1004931256
+    },
+    {
+      "detail_date": "2023-09-10",
+      "detail_balance": 1182203.4688717916
+    },
+    {
+      "detail_date": "2023-09-11",
+      "detail_balance": 1187260.1626503258
+    },
+    {
+      "detail_date": "2023-09-12",
+      "detail_balance": 1192110.4915140774
+    },
+    {
+      "detail_date": "2023-09-13",
+      "detail_balance": 1173862.0178763883
+    },
+    {
+      "detail_date": "2023-09-14",
+      "detail_balance": 1177540.329494043
+    },
+    {
+      "detail_date": "2023-09-15",
+      "detail_balance": 1181735.7891488094
+    },
+    {
+      "detail_date": "2023-09-16",
+      "detail_balance": 1187242.3140880554
+    },
+    {
+      "detail_date": "2023-09-17",
+      "detail_balance": 1190977.6709265779
+    },
+    {
+      "detail_date": "2023-09-18",
+      "detail_balance": 1193795.7298622834
+    },
+    {
+      "detail_date": "2023-09-19",
+      "detail_balance": 1198088.2081182054
+    },
+    {
+      "detail_date": "2023-09-20",
+      "detail_balance": 1202397.041228497
+    },
+    {
+      "detail_date": "2023-09-21",
+      "detail_balance": 1209153.671913618
+    },
+    {
+      "detail_date": "2023-09-22",
+      "detail_balance": 1212280.3051730865
+    },
+    {
+      "detail_date": "2023-09-23",
+      "detail_balance": 1218463.3077948643
+    },
+    {
+      "detail_date": "2023-09-24",
+      "detail_balance": 1222090.0984692678
+    },
+    {
+      "detail_date": "2023-09-25",
+      "detail_balance": 1226489.3862557635
+    },
+    {
+      "detail_date": "2023-09-26",
+      "detail_balance": 1198361.2970211392
+    },
+    {
+      "detail_date": "2023-09-27",
+      "detail_balance": 1203670.9473367392
+    },
+    {
+      "detail_date": "2023-09-28",
+      "detail_balance": 1208883.4160051816
+    },
+    {
+      "detail_date": "2023-09-29",
+      "detail_balance": 1214707.9514782433
+    },
+    {
+      "detail_date": "2023-09-30",
+      "detail_balance": 1219808.5542015813
+    },
+    {
+      "detail_date": "2023-10-01",
+      "detail_balance": 1224738.8123343338
+    },
+    {
+      "detail_date": "2023-10-02",
+      "detail_balance": 1227285.0034798768
+    },
+    {
+      "detail_date": "2023-10-03",
+      "detail_balance": 1230705.6556061003
+    },
+    {
+      "detail_date": "2023-10-04",
+      "detail_balance": 1239139.832433837
+    },
+    {
+      "detail_date": "2023-10-05",
+      "detail_balance": 1242188.9543279612
+    },
+    {
+      "detail_date": "2023-10-06",
+      "detail_balance": 1214710.211196786
+    },
+    {
+      "detail_date": "2023-10-07",
+      "detail_balance": 1219968.7738277488
+    },
+    {
+      "detail_date": "2023-10-08",
+      "detail_balance": 1225180.6029647144
+    },
+    {
+      "detail_date": "2023-10-09",
+      "detail_balance": 1229043.2302082502
+    },
+    {
+      "detail_date": "2023-10-10",
+      "detail_balance": 1234184.0694473435
+    },
+    {
+      "detail_date": "2023-10-11",
+      "detail_balance": 1237838.0540193848
+    },
+    {
+      "detail_date": "2023-10-12",
+      "detail_balance": 1234909.3978972791
+    },
+    {
+      "detail_date": "2023-10-13",
+      "detail_balance": 1235074.8944864243
+    },
+    {
+      "detail_date": "2023-10-14",
+      "detail_balance": 1237136.0952485795
+    },
+    {
+      "detail_date": "2023-10-15",
+      "detail_balance": 1240635.11202858
+    },
+    {
+      "detail_date": "2023-10-16",
+      "detail_balance": 1244681.2623181862
+    },
+    {
+      "detail_date": "2023-10-17",
+      "detail_balance": 1248620.275804814
+    },
+    {
+      "detail_date": "2023-10-18",
+      "detail_balance": 1232538.3355629584
+    },
+    {
+      "detail_date": "2023-10-19",
+      "detail_balance": 1235743.6449651257
+    },
+    {
+      "detail_date": "2023-10-20",
+      "detail_balance": 1224724.439594531
+    },
+    {
+      "detail_date": "2023-10-21",
+      "detail_balance": 1224436.9728249926
+    },
+    {
+      "detail_date": "2023-10-22",
+      "detail_balance": 1226195.7714818567
+    },
+    {
+      "detail_date": "2023-10-23",
+      "detail_balance": 1230166.274362309
+    },
+    {
+      "detail_date": "2023-10-24",
+      "detail_balance": 1231813.7279331763
+    },
+    {
+      "detail_date": "2023-10-25",
+      "detail_balance": 1235045.105263008
+    },
+    {
+      "detail_date": "2023-10-26",
+      "detail_balance": 1238203.7426271487
+    },
+    {
+      "detail_date": "2023-10-27",
+      "detail_balance": 1241802.7449186642
+    },
+    {
+      "detail_date": "2023-10-28",
+      "detail_balance": 1239006.3273233576
+    },
+    {
+      "detail_date": "2023-10-29",
+      "detail_balance": 1238918.4390357165
+    },
+    {
+      "detail_date": "2023-10-30",
+      "detail_balance": 1228666.9698787637
+    },
+    {
+      "detail_date": "2023-10-31",
+      "detail_balance": 1230774.712154828
+    },
+    {
+      "detail_date": "2023-11-01",
+      "detail_balance": 1236488.0966862608
+    },
+    {
+      "detail_date": "2023-11-02",
+      "detail_balance": 1238810.9539826305
+    },
+    {
+      "detail_date": "2023-11-03",
+      "detail_balance": 1232532.0467154363
+    },
+    {
+      "detail_date": "2023-11-04",
+      "detail_balance": 1237142.1152262513
+    },
+    {
+      "detail_date": "2023-11-05",
+      "detail_balance": 1238083.3916053884
+    },
+    {
+      "detail_date": "2023-11-06",
+      "detail_balance": 1232732.5054162475
+    },
+    {
+      "detail_date": "2023-11-07",
+      "detail_balance": 1229264.865195262
+    },
+    {
+      "detail_date": "2023-11-08",
+      "detail_balance": 1227274.905787341
+    },
+    {
+      "detail_date": "2023-11-09",
+      "detail_balance": 1230836.9104755
+    },
+    {
+      "detail_date": "2023-11-10",
+      "detail_balance": 1239292.40777067
+    },
+    {
+      "detail_date": "2023-11-11",
+      "detail_balance": 1246412.985508602
+    },
+    {
+      "detail_date": "2023-11-12",
+      "detail_balance": 1251475.622180942
+    },
+    {
+      "detail_date": "2023-11-13",
+      "detail_balance": 1252900.0276387194
+    },
+    {
+      "detail_date": "2023-11-14",
+      "detail_balance": 1255163.399061531
+    },
+    {
+      "detail_date": "2023-11-15",
+      "detail_balance": 1248008.7368157401
+    },
+    {
+      "detail_date": "2023-11-16",
+      "detail_balance": 1247385.1989970556
+    },
+    {
+      "detail_date": "2023-11-17",
+      "detail_balance": 1259489.6905321165
+    },
+    {
+      "detail_date": "2023-11-18",
+      "detail_balance": 1266829.009344788
+    },
+    {
+      "detail_date": "2023-11-19",
+      "detail_balance": 1280138.364404805
+    },
+    {
+      "detail_date": "2023-11-20",
+      "detail_balance": 1287912.0086649526
+    },
+    {
+      "detail_date": "2023-11-21",
+      "detail_balance": 1277570.7032152705
+    },
+    {
+      "detail_date": "2023-11-22",
+      "detail_balance": 1284921.0031427327
+    },
+    {
+      "detail_date": "2023-11-23",
+      "detail_balance": 1286824.9460681442
+    },
+    {
+      "detail_date": "2023-11-24",
+      "detail_balance": 1284710.2117827502
+    },
+    {
+      "detail_date": "2023-11-25",
+      "detail_balance": 1288357.2793344841
+    },
+    {
+      "detail_date": "2023-11-26",
+      "detail_balance": 1290622.3704092356
+    },
+    {
+      "detail_date": "2023-11-27",
+      "detail_balance": 1287930.8818043254
+    },
+    {
+      "detail_date": "2023-11-28",
+      "detail_balance": 1290886.0788195042
+    },
+    {
+      "detail_date": "2023-11-29",
+      "detail_balance": 1271670.004240052
+    },
+    {
+      "detail_date": "2023-11-30",
+      "detail_balance": 1274071.4934830456
+    },
+    {
+      "detail_date": "2023-12-01",
+      "detail_balance": 1275035.4790655563
+    },
+    {
+      "detail_date": "2023-12-02",
+      "detail_balance": 1269675.5121732403
+    },
+    {
+      "detail_date": "2023-12-03",
+      "detail_balance": 1271916.949189846
+    },
+    {
+      "detail_date": "2023-12-04",
+      "detail_balance": 1275557.2026701446
+    },
+    {
+      "detail_date": "2023-12-05",
+      "detail_balance": 1276497.124411181
+    },
+    {
+      "detail_date": "2023-12-06",
+      "detail_balance": 1274421.3834346407
+    },
+    {
+      "detail_date": "2023-12-07",
+      "detail_balance": 1277274.6369010992
+    },
+    {
+      "detail_date": "2023-12-08",
+      "detail_balance": 1265044.5929992462
+    },
+    {
+      "detail_date": "2023-12-09",
+      "detail_balance": 1268352.6388544845
+    },
+    {
+      "detail_date": "2023-12-10",
+      "detail_balance": 1271766.3361902751
+    },
+    {
+      "detail_date": "2023-12-11",
+      "detail_balance": 1271360.441682266
+    },
+    {
+      "detail_date": "2023-12-12",
+      "detail_balance": 1276132.3181683635
+    },
+    {
+      "detail_date": "2023-12-13",
+      "detail_balance": 1278297.686969934
+    },
+    {
+      "detail_date": "2023-12-14",
+      "detail_balance": 1280480.7935755088
+    },
+    {
+      "detail_date": "2023-12-15",
+      "detail_balance": 1280227.7127129834
+    },
+    {
+      "detail_date": "2023-12-16",
+      "detail_balance": 1281204.7193810241
+    },
+    {
+      "detail_date": "2023-12-17",
+      "detail_balance": 1282056.9204743018
+    },
+    {
+      "detail_date": "2023-12-18",
+      "detail_balance": 1288616.3504463886
+    },
+    {
+      "detail_date": "2023-12-19",
+      "detail_balance": 1291320.1119797032
+    },
+    {
+      "detail_date": "2023-12-20",
+      "detail_balance": 1293270.9345821575
+    },
+    {
+      "detail_date": "2023-12-21",
+      "detail_balance": 1286935.1174801216
+    },
+    {
+      "detail_date": "2023-12-22",
+      "detail_balance": 1291988.2252496744
+    },
+    {
+      "detail_date": "2023-12-23",
+      "detail_balance": 1293669.7761852203
+    },
+    {
+      "detail_date": "2023-12-24",
+      "detail_balance": 1296037.2713114605
+    },
+    {
+      "detail_date": "2023-12-25",
+      "detail_balance": 1299047.843935165
+    },
+    {
+      "detail_date": "2023-12-26",
+      "detail_balance": 1302241.1749755584
+    },
+    {
+      "detail_date": "2023-12-27",
+      "detail_balance": 1307953.3411057987
+    },
+    {
+      "detail_date": "2023-12-28",
+      "detail_balance": 1311639.017276864
+    },
+    {
+      "detail_date": "2023-12-29",
+      "detail_balance": 1316370.2055642067
+    },
+    {
+      "detail_date": "2023-12-30",
+      "detail_balance": 1319050.3645196902
+    },
+    {
+      "detail_date": "2023-12-31",
+      "detail_balance": 1324017.6138513654
+    },
+    {
+      "detail_date": "2024-01-01",
+      "detail_balance": 1326020.4443151138
+    },
+    {
+      "detail_date": "2024-01-02",
+      "detail_balance": 1332157.2764457609
+    },
+    {
+      "detail_date": "2024-01-03",
+      "detail_balance": 1344289.7153270866
+    },
+    {
+      "detail_date": "2024-01-04",
+      "detail_balance": 1347592.676347359
+    },
+    {
+      "detail_date": "2024-01-05",
+      "detail_balance": 1352314.6369397165
+    },
+    {
+      "detail_date": "2024-01-06",
+      "detail_balance": 1355029.0370741053
+    },
+    {
+      "detail_date": "2024-01-07",
+      "detail_balance": 1358048.0208124311
+    },
+    {
+      "detail_date": "2024-01-08",
+      "detail_balance": 1361357.8928262834
+    },
+    {
+      "detail_date": "2024-01-09",
+      "detail_balance": 1365767.6241154475
+    },
+    {
+      "detail_date": "2024-01-10",
+      "detail_balance": 1370950.1679354408
+    },
+    {
+      "detail_date": "2024-01-11",
+      "detail_balance": 1373937.6732110106
+    },
+    {
+      "detail_date": "2024-01-12",
+      "detail_balance": 1385676.5523477537
+    },
+    {
+      "detail_date": "2024-01-13",
+      "detail_balance": 1382877.7656876252
+    },
+    {
+      "detail_date": "2024-01-14",
+      "detail_balance": 1387894.1875947416
+    },
+    {
+      "detail_date": "2024-01-15",
+      "detail_balance": 1402531.8328928354
+    },
+    {
+      "detail_date": "2024-01-16",
+      "detail_balance": 1402120.6429428314
+    },
+    {
+      "detail_date": "2024-01-17",
+      "detail_balance": 1406073.4690878068
+    },
+    {
+      "detail_date": "2024-01-18",
+      "detail_balance": 1409004.373467476
+    },
+    {
+      "detail_date": "2024-01-19",
+      "detail_balance": 1402876.0795226337
+    },
+    {
+      "detail_date": "2024-01-20",
+      "detail_balance": 1404091.0084626148
+    },
+    {
+      "detail_date": "2024-01-21",
+      "detail_balance": 1406351.300993837
+    },
+    {
+      "detail_date": "2024-01-22",
+      "detail_balance": 1414766.5465006833
+    },
+    {
+      "detail_date": "2024-01-23",
+      "detail_balance": 1418998.007046201
+    },
+    {
+      "detail_date": "2024-01-24",
+      "detail_balance": 1431747.5853748936
+    },
+    {
+      "detail_date": "2024-01-25",
+      "detail_balance": 1435686.0581967947
+    },
+    {
+      "detail_date": "2024-01-26",
+      "detail_balance": 1440600.9976735578
+    },
+    {
+      "detail_date": "2024-01-27",
+      "detail_balance": 1444137.8219189034
+    },
+    {
+      "detail_date": "2024-01-28",
+      "detail_balance": 1448855.237224649
+    },
+    {
+      "detail_date": "2024-01-29",
+      "detail_balance": 1455762.9299876227
+    },
+    {
+      "detail_date": "2024-01-30",
+      "detail_balance": 1451914.7500696038
+    },
+    {
+      "detail_date": "2024-01-31",
+      "detail_balance": 1454765.9962805375
+    },
+    {
+      "detail_date": "2024-02-01",
+      "detail_balance": 1458743.6454753543
+    },
+    {
+      "detail_date": "2024-02-02",
+      "detail_balance": 1456686.1086236078
+    },
+    {
+      "detail_date": "2024-02-03",
+      "detail_balance": 1457704.127170517
+    },
+    {
+      "detail_date": "2024-02-04",
+      "detail_balance": 1455509.5777423263
+    },
+    {
+      "detail_date": "2024-02-05",
+      "detail_balance": 1484270.0893366158
+    },
+    {
+      "detail_date": "2024-02-06",
+      "detail_balance": 1482892.8666864866
+    },
+    {
+      "detail_date": "2024-02-07",
+      "detail_balance": 1479063.4783952367
+    },
+    {
+      "detail_date": "2024-02-08",
+      "detail_balance": 1480028.5015680345
+    },
+    {
+      "detail_date": "2024-02-09",
+      "detail_balance": 1480940.6185805965
+    },
+    {
+      "detail_date": "2024-02-10",
+      "detail_balance": 1482785.8611425543
+    },
+    {
+      "detail_date": "2024-02-11",
+      "detail_balance": 1481467.7032768459
+    },
+    {
+      "detail_date": "2024-02-12",
+      "detail_balance": 1483476.9437664987
+    },
+    {
+      "detail_date": "2024-02-13",
+      "detail_balance": 1486417.829179095
+    },
+    {
+      "detail_date": "2024-02-14",
+      "detail_balance": 1486464.4823472493
+    },
+    {
+      "detail_date": "2024-02-15",
+      "detail_balance": 1490629.8752511616
+    }
+  ],
+  "from_network": 1,
+  "to_network": 42161
+},
+{
+  "_id": {
+    "$oid": "65d13c3ebbc8ef6de6604968"
+  },
+  "address": "0xbEb5Fc579115071764c7423A4f12eDde41f106Ed",
+  "from_network": 1,
+  "balance": 343773.28469370876,
+  "block_number": 19236754,
+  "date": "2024-02-15",
+  "detail": [
+    {
+      "detail_date": "2023-01-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-31",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-31",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-31",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-06",
+      "detail_balance": 293288.8720539695
+    },
+    {
+      "detail_date": "2023-06-07",
+      "detail_balance": 295233.0107100322
+    },
+    {
+      "detail_date": "2023-06-08",
+      "detail_balance": 295761.5631199935
+    },
+    {
+      "detail_date": "2023-06-09",
+      "detail_balance": 295939.3152454788
+    },
+    {
+      "detail_date": "2023-06-10",
+      "detail_balance": 296499.11053941905
+    },
+    {
+      "detail_date": "2023-06-11",
+      "detail_balance": 296696.59350117674
+    },
+    {
+      "detail_date": "2023-06-12",
+      "detail_balance": 297025.17470143555
+    },
+    {
+      "detail_date": "2023-06-13",
+      "detail_balance": 297694.07579230703
+    },
+    {
+      "detail_date": "2023-06-14",
+      "detail_balance": 296837.22997866466
+    },
+    {
+      "detail_date": "2023-06-15",
+      "detail_balance": 296772.2337620289
+    },
+    {
+      "detail_date": "2023-06-16",
+      "detail_balance": 296971.04738049686
+    },
+    {
+      "detail_date": "2023-06-17",
+      "detail_balance": 297152.33063002286
+    },
+    {
+      "detail_date": "2023-06-18",
+      "detail_balance": 297104.5872361362
+    },
+    {
+      "detail_date": "2023-06-19",
+      "detail_balance": 297595.37208578084
+    },
+    {
+      "detail_date": "2023-06-20",
+      "detail_balance": 297865.6375592252
+    },
+    {
+      "detail_date": "2023-06-21",
+      "detail_balance": 298112.0325163241
+    },
+    {
+      "detail_date": "2023-06-22",
+      "detail_balance": 298284.5013230699
+    },
+    {
+      "detail_date": "2023-06-23",
+      "detail_balance": 298161.26277965045
+    },
+    {
+      "detail_date": "2023-06-24",
+      "detail_balance": 298325.7203595382
+    },
+    {
+      "detail_date": "2023-06-25",
+      "detail_balance": 298494.98734466796
+    },
+    {
+      "detail_date": "2023-06-26",
+      "detail_balance": 298806.0579941042
+    },
+    {
+      "detail_date": "2023-06-27",
+      "detail_balance": 269109.38181306655
+    },
+    {
+      "detail_date": "2023-06-28",
+      "detail_balance": 269526.8945506065
+    },
+    {
+      "detail_date": "2023-06-29",
+      "detail_balance": 269782.52097177354
+    },
+    {
+      "detail_date": "2023-06-30",
+      "detail_balance": 269886.1142129274
+    },
+    {
+      "detail_date": "2023-07-01",
+      "detail_balance": 270039.71359798376
+    },
+    {
+      "detail_date": "2023-07-02",
+      "detail_balance": 270415.32710321475
+    },
+    {
+      "detail_date": "2023-07-03",
+      "detail_balance": 270446.72306027135
+    },
+    {
+      "detail_date": "2023-07-04",
+      "detail_balance": 268855.81468854286
+    },
+    {
+      "detail_date": "2023-07-05",
+      "detail_balance": 269918.2518456537
+    },
+    {
+      "detail_date": "2023-07-06",
+      "detail_balance": 265554.6960977463
+    },
+    {
+      "detail_date": "2023-07-07",
+      "detail_balance": 265713.2819493216
+    },
+    {
+      "detail_date": "2023-07-08",
+      "detail_balance": 265880.01896347885
+    },
+    {
+      "detail_date": "2023-07-09",
+      "detail_balance": 266042.5997603362
+    },
+    {
+      "detail_date": "2023-07-10",
+      "detail_balance": 266426.6966838818
+    },
+    {
+      "detail_date": "2023-07-11",
+      "detail_balance": 266581.59945384023
+    },
+    {
+      "detail_date": "2023-07-12",
+      "detail_balance": 267042.3589796065
+    },
+    {
+      "detail_date": "2023-07-13",
+      "detail_balance": 267783.63243973884
+    },
+    {
+      "detail_date": "2023-07-14",
+      "detail_balance": 268574.3467118994
+    },
+    {
+      "detail_date": "2023-07-15",
+      "detail_balance": 268514.4729915196
+    },
+    {
+      "detail_date": "2023-07-16",
+      "detail_balance": 268721.0538183757
+    },
+    {
+      "detail_date": "2023-07-17",
+      "detail_balance": 268216.1820796577
+    },
+    {
+      "detail_date": "2023-07-18",
+      "detail_balance": 268515.20008090214
+    },
+    {
+      "detail_date": "2023-07-19",
+      "detail_balance": 269109.4890314449
+    },
+    {
+      "detail_date": "2023-07-20",
+      "detail_balance": 269384.66939605953
+    },
+    {
+      "detail_date": "2023-07-21",
+      "detail_balance": 270924.5744760599
+    },
+    {
+      "detail_date": "2023-07-22",
+      "detail_balance": 271469.2206882193
+    },
+    {
+      "detail_date": "2023-07-23",
+      "detail_balance": 272361.39658959786
+    },
+    {
+      "detail_date": "2023-07-24",
+      "detail_balance": 272902.3269570651
+    },
+    {
+      "detail_date": "2023-07-25",
+      "detail_balance": 273784.4670494848
+    },
+    {
+      "detail_date": "2023-07-26",
+      "detail_balance": 274018.5331168132
+    },
+    {
+      "detail_date": "2023-07-27",
+      "detail_balance": 274565.4557794269
+    },
+    {
+      "detail_date": "2023-07-28",
+      "detail_balance": 273202.6845090259
+    },
+    {
+      "detail_date": "2023-07-29",
+      "detail_balance": 273390.6056200993
+    },
+    {
+      "detail_date": "2023-07-30",
+      "detail_balance": 274587.8395702833
+    },
+    {
+      "detail_date": "2023-07-31",
+      "detail_balance": 275986.24463389855
+    },
+    {
+      "detail_date": "2023-08-01",
+      "detail_balance": 270451.27136415476
+    },
+    {
+      "detail_date": "2023-08-02",
+      "detail_balance": 270676.16916025564
+    },
+    {
+      "detail_date": "2023-08-03",
+      "detail_balance": 267294.29743409686
+    },
+    {
+      "detail_date": "2023-08-04",
+      "detail_balance": 270987.0707046238
+    },
+    {
+      "detail_date": "2023-08-05",
+      "detail_balance": 273205.39386336977
+    },
+    {
+      "detail_date": "2023-08-06",
+      "detail_balance": 274211.78813141765
+    },
+    {
+      "detail_date": "2023-08-07",
+      "detail_balance": 274848.7621931675
+    },
+    {
+      "detail_date": "2023-08-08",
+      "detail_balance": 275440.9365337008
+    },
+    {
+      "detail_date": "2023-08-09",
+      "detail_balance": 275796.00805798883
+    },
+    {
+      "detail_date": "2023-08-10",
+      "detail_balance": 270520.63870076695
+    },
+    {
+      "detail_date": "2023-08-11",
+      "detail_balance": 270430.1342695864
+    },
+    {
+      "detail_date": "2023-08-12",
+      "detail_balance": 271252.1391783561
+    },
+    {
+      "detail_date": "2023-08-13",
+      "detail_balance": 271823.73079324217
+    },
+    {
+      "detail_date": "2023-08-14",
+      "detail_balance": 272573.58768156107
+    },
+    {
+      "detail_date": "2023-08-15",
+      "detail_balance": 272781.9489569143
+    },
+    {
+      "detail_date": "2023-08-16",
+      "detail_balance": 273137.0433747369
+    },
+    {
+      "detail_date": "2023-08-17",
+      "detail_balance": 273632.3198308182
+    },
+    {
+      "detail_date": "2023-08-18",
+      "detail_balance": 274402.1006307464
+    },
+    {
+      "detail_date": "2023-08-19",
+      "detail_balance": 275110.57858039916
+    },
+    {
+      "detail_date": "2023-08-20",
+      "detail_balance": 275404.9633170426
+    },
+    {
+      "detail_date": "2023-08-21",
+      "detail_balance": 275414.55225769116
+    },
+    {
+      "detail_date": "2023-08-22",
+      "detail_balance": 276017.2147978083
+    },
+    {
+      "detail_date": "2023-08-23",
+      "detail_balance": 265470.582240986
+    },
+    {
+      "detail_date": "2023-08-24",
+      "detail_balance": 265653.36360744404
+    },
+    {
+      "detail_date": "2023-08-25",
+      "detail_balance": 261897.2027484816
+    },
+    {
+      "detail_date": "2023-08-26",
+      "detail_balance": 262345.74682803673
+    },
+    {
+      "detail_date": "2023-08-27",
+      "detail_balance": 263023.2193549387
+    },
+    {
+      "detail_date": "2023-08-28",
+      "detail_balance": 264084.55790620495
+    },
+    {
+      "detail_date": "2023-08-29",
+      "detail_balance": 263402.57654963783
+    },
+    {
+      "detail_date": "2023-08-30",
+      "detail_balance": 264164.3034169971
+    },
+    {
+      "detail_date": "2023-08-31",
+      "detail_balance": 265847.1127842255
+    },
+    {
+      "detail_date": "2023-09-01",
+      "detail_balance": 265987.8145858767
+    },
+    {
+      "detail_date": "2023-09-02",
+      "detail_balance": 266776.7249792829
+    },
+    {
+      "detail_date": "2023-09-03",
+      "detail_balance": 266819.2026730449
+    },
+    {
+      "detail_date": "2023-09-04",
+      "detail_balance": 258042.41348648345
+    },
+    {
+      "detail_date": "2023-09-05",
+      "detail_balance": 258301.1913125289
+    },
+    {
+      "detail_date": "2023-09-06",
+      "detail_balance": 258918.45024806762
+    },
+    {
+      "detail_date": "2023-09-07",
+      "detail_balance": 259627.15910485276
+    },
+    {
+      "detail_date": "2023-09-08",
+      "detail_balance": 260750.04708506184
+    },
+    {
+      "detail_date": "2023-09-09",
+      "detail_balance": 261834.71490362677
+    },
+    {
+      "detail_date": "2023-09-10",
+      "detail_balance": 263347.1291815253
+    },
+    {
+      "detail_date": "2023-09-11",
+      "detail_balance": 264162.7171440549
+    },
+    {
+      "detail_date": "2023-09-12",
+      "detail_balance": 264218.64961906045
+    },
+    {
+      "detail_date": "2023-09-13",
+      "detail_balance": 257649.1073364193
+    },
+    {
+      "detail_date": "2023-09-14",
+      "detail_balance": 258647.41100952352
+    },
+    {
+      "detail_date": "2023-09-15",
+      "detail_balance": 259880.37021971497
+    },
+    {
+      "detail_date": "2023-09-16",
+      "detail_balance": 261576.02632494946
+    },
+    {
+      "detail_date": "2023-09-17",
+      "detail_balance": 263305.15016108996
+    },
+    {
+      "detail_date": "2023-09-18",
+      "detail_balance": 264754.1007763217
+    },
+    {
+      "detail_date": "2023-09-19",
+      "detail_balance": 267332.2662039294
+    },
+    {
+      "detail_date": "2023-09-20",
+      "detail_balance": 269214.5612615761
+    },
+    {
+      "detail_date": "2023-09-21",
+      "detail_balance": 271331.15466369764
+    },
+    {
+      "detail_date": "2023-09-22",
+      "detail_balance": 272648.0144934674
+    },
+    {
+      "detail_date": "2023-09-23",
+      "detail_balance": 275447.12702527223
+    },
+    {
+      "detail_date": "2023-09-24",
+      "detail_balance": 276907.22890293977
+    },
+    {
+      "detail_date": "2023-09-25",
+      "detail_balance": 278320.97783325904
+    },
+    {
+      "detail_date": "2023-09-26",
+      "detail_balance": 266332.90496770205
+    },
+    {
+      "detail_date": "2023-09-27",
+      "detail_balance": 267940.2554954102
+    },
+    {
+      "detail_date": "2023-09-28",
+      "detail_balance": 269293.69099132146
+    },
+    {
+      "detail_date": "2023-09-29",
+      "detail_balance": 270817.50475983915
+    },
+    {
+      "detail_date": "2023-09-30",
+      "detail_balance": 272385.07259749493
+    },
+    {
+      "detail_date": "2023-10-01",
+      "detail_balance": 273536.74059723143
+    },
+    {
+      "detail_date": "2023-10-02",
+      "detail_balance": 274203.9804357027
+    },
+    {
+      "detail_date": "2023-10-03",
+      "detail_balance": 275579.1118068677
+    },
+    {
+      "detail_date": "2023-10-04",
+      "detail_balance": 280731.3877129064
+    },
+    {
+      "detail_date": "2023-10-05",
+      "detail_balance": 281535.99785553955
+    },
+    {
+      "detail_date": "2023-10-06",
+      "detail_balance": 271776.5850945495
+    },
+    {
+      "detail_date": "2023-10-07",
+      "detail_balance": 273065.64553354774
+    },
+    {
+      "detail_date": "2023-10-08",
+      "detail_balance": 273977.4536954448
+    },
+    {
+      "detail_date": "2023-10-09",
+      "detail_balance": 275358.09924819454
+    },
+    {
+      "detail_date": "2023-10-10",
+      "detail_balance": 270906.67157276015
+    },
+    {
+      "detail_date": "2023-10-11",
+      "detail_balance": 270162.9291778326
+    },
+    {
+      "detail_date": "2023-10-12",
+      "detail_balance": 271530.89310606086
+    },
+    {
+      "detail_date": "2023-10-13",
+      "detail_balance": 272746.5419400495
+    },
+    {
+      "detail_date": "2023-10-14",
+      "detail_balance": 274225.77831684577
+    },
+    {
+      "detail_date": "2023-10-15",
+      "detail_balance": 275237.1453398486
+    },
+    {
+      "detail_date": "2023-10-16",
+      "detail_balance": 276143.1124123247
+    },
+    {
+      "detail_date": "2023-10-17",
+      "detail_balance": 274467.0462678755
+    },
+    {
+      "detail_date": "2023-10-18",
+      "detail_balance": 271624.73306805163
+    },
+    {
+      "detail_date": "2023-10-19",
+      "detail_balance": 271778.06658975134
+    },
+    {
+      "detail_date": "2023-10-20",
+      "detail_balance": 272617.9998462341
+    },
+    {
+      "detail_date": "2023-10-21",
+      "detail_balance": 273507.6162907882
+    },
+    {
+      "detail_date": "2023-10-22",
+      "detail_balance": 274859.68891540286
+    },
+    {
+      "detail_date": "2023-10-23",
+      "detail_balance": 275807.55491056014
+    },
+    {
+      "detail_date": "2023-10-24",
+      "detail_balance": 276629.0868607035
+    },
+    {
+      "detail_date": "2023-10-25",
+      "detail_balance": 271488.533044515
+    },
+    {
+      "detail_date": "2023-10-26",
+      "detail_balance": 272142.6769108104
+    },
+    {
+      "detail_date": "2023-10-27",
+      "detail_balance": 272787.82615961245
+    },
+    {
+      "detail_date": "2023-10-28",
+      "detail_balance": 273343.25303833873
+    },
+    {
+      "detail_date": "2023-10-29",
+      "detail_balance": 274609.7094841562
+    },
+    {
+      "detail_date": "2023-10-30",
+      "detail_balance": 275334.42881150614
+    },
+    {
+      "detail_date": "2023-10-31",
+      "detail_balance": 275224.38094276533
+    },
+    {
+      "detail_date": "2023-11-01",
+      "detail_balance": 270242.5752908453
+    },
+    {
+      "detail_date": "2023-11-02",
+      "detail_balance": 271417.73606667534
+    },
+    {
+      "detail_date": "2023-11-03",
+      "detail_balance": 272050.81885051547
+    },
+    {
+      "detail_date": "2023-11-04",
+      "detail_balance": 273816.49306129024
+    },
+    {
+      "detail_date": "2023-11-05",
+      "detail_balance": 274319.75029708847
+    },
+    {
+      "detail_date": "2023-11-06",
+      "detail_balance": 275086.9338183408
+    },
+    {
+      "detail_date": "2023-11-07",
+      "detail_balance": 275838.25765542994
+    },
+    {
+      "detail_date": "2023-11-08",
+      "detail_balance": 271416.53283901955
+    },
+    {
+      "detail_date": "2023-11-09",
+      "detail_balance": 273017.2176730876
+    },
+    {
+      "detail_date": "2023-11-10",
+      "detail_balance": 275252.0866969719
+    },
+    {
+      "detail_date": "2023-11-11",
+      "detail_balance": 276142.94718882674
+    },
+    {
+      "detail_date": "2023-11-12",
+      "detail_balance": 277316.91552007804
+    },
+    {
+      "detail_date": "2023-11-13",
+      "detail_balance": 277585.07053389464
+    },
+    {
+      "detail_date": "2023-11-14",
+      "detail_balance": 278180.83408495237
+    },
+    {
+      "detail_date": "2023-11-15",
+      "detail_balance": 278722.6083011656
+    },
+    {
+      "detail_date": "2023-11-16",
+      "detail_balance": 280191.5810838888
+    },
+    {
+      "detail_date": "2023-11-17",
+      "detail_balance": 291090.565209382
+    },
+    {
+      "detail_date": "2023-11-18",
+      "detail_balance": 297065.4601739317
+    },
+    {
+      "detail_date": "2023-11-19",
+      "detail_balance": 303352.934517705
+    },
+    {
+      "detail_date": "2023-11-20",
+      "detail_balance": 308294.5404208451
+    },
+    {
+      "detail_date": "2023-11-21",
+      "detail_balance": 308429.69855120574
+    },
+    {
+      "detail_date": "2023-11-22",
+      "detail_balance": 315658.93812412646
+    },
+    {
+      "detail_date": "2023-11-23",
+      "detail_balance": 315563.7368003595
+    },
+    {
+      "detail_date": "2023-11-24",
+      "detail_balance": 317189.38559806714
+    },
+    {
+      "detail_date": "2023-11-25",
+      "detail_balance": 317249.15555614553
+    },
+    {
+      "detail_date": "2023-11-26",
+      "detail_balance": 317631.43670886505
+    },
+    {
+      "detail_date": "2023-11-27",
+      "detail_balance": 318039.01266267744
+    },
+    {
+      "detail_date": "2023-11-28",
+      "detail_balance": 318349.0018464277
+    },
+    {
+      "detail_date": "2023-11-29",
+      "detail_balance": 318498.50074313505
+    },
+    {
+      "detail_date": "2023-11-30",
+      "detail_balance": 318766.68055863224
+    },
+    {
+      "detail_date": "2023-12-01",
+      "detail_balance": 318003.78740231413
+    },
+    {
+      "detail_date": "2023-12-02",
+      "detail_balance": 318964.9712012065
+    },
+    {
+      "detail_date": "2023-12-03",
+      "detail_balance": 319864.98798134574
+    },
+    {
+      "detail_date": "2023-12-04",
+      "detail_balance": 320556.13086024724
+    },
+    {
+      "detail_date": "2023-12-05",
+      "detail_balance": 317890.45066717797
+    },
+    {
+      "detail_date": "2023-12-06",
+      "detail_balance": 318582.95691651007
+    },
+    {
+      "detail_date": "2023-12-07",
+      "detail_balance": 319331.44202850666
+    },
+    {
+      "detail_date": "2023-12-08",
+      "detail_balance": 320586.7486552431
+    },
+    {
+      "detail_date": "2023-12-09",
+      "detail_balance": 322049.80653992324
+    },
+    {
+      "detail_date": "2023-12-10",
+      "detail_balance": 324359.47776223056
+    },
+    {
+      "detail_date": "2023-12-11",
+      "detail_balance": 324985.9547528105
+    },
+    {
+      "detail_date": "2023-12-12",
+      "detail_balance": 323656.261730903
+    },
+    {
+      "detail_date": "2023-12-13",
+      "detail_balance": 325408.46556199907
+    },
+    {
+      "detail_date": "2023-12-14",
+      "detail_balance": 326104.70925393346
+    },
+    {
+      "detail_date": "2023-12-15",
+      "detail_balance": 327074.0193292296
+    },
+    {
+      "detail_date": "2023-12-16",
+      "detail_balance": 328399.7251327871
+    },
+    {
+      "detail_date": "2023-12-17",
+      "detail_balance": 329218.62565511966
+    },
+    {
+      "detail_date": "2023-12-18",
+      "detail_balance": 330051.03083280835
+    },
+    {
+      "detail_date": "2023-12-19",
+      "detail_balance": 330992.1199396893
+    },
+    {
+      "detail_date": "2023-12-20",
+      "detail_balance": 327146.22306069714
+    },
+    {
+      "detail_date": "2023-12-21",
+      "detail_balance": 329483.06236384116
+    },
+    {
+      "detail_date": "2023-12-22",
+      "detail_balance": 326171.9486740711
+    },
+    {
+      "detail_date": "2023-12-23",
+      "detail_balance": 328581.13109751366
+    },
+    {
+      "detail_date": "2023-12-24",
+      "detail_balance": 332098.6160001732
+    },
+    {
+      "detail_date": "2023-12-25",
+      "detail_balance": 333926.3628942513
+    },
+    {
+      "detail_date": "2023-12-26",
+      "detail_balance": 327359.5002559116
+    },
+    {
+      "detail_date": "2023-12-27",
+      "detail_balance": 330660.6331279175
+    },
+    {
+      "detail_date": "2023-12-28",
+      "detail_balance": 328849.80303466046
+    },
+    {
+      "detail_date": "2023-12-29",
+      "detail_balance": 330605.53718623647
+    },
+    {
+      "detail_date": "2023-12-30",
+      "detail_balance": 332144.06573154405
+    },
+    {
+      "detail_date": "2023-12-31",
+      "detail_balance": 333849.0612297255
+    },
+    {
+      "detail_date": "2024-01-01",
+      "detail_balance": 329071.48209271004
+    },
+    {
+      "detail_date": "2024-01-02",
+      "detail_balance": 328215.9256676989
+    },
+    {
+      "detail_date": "2024-01-03",
+      "detail_balance": 329187.5019215763
+    },
+    {
+      "detail_date": "2024-01-04",
+      "detail_balance": 326701.6907163613
+    },
+    {
+      "detail_date": "2024-01-05",
+      "detail_balance": 319684.13977139775
+    },
+    {
+      "detail_date": "2024-01-06",
+      "detail_balance": 321036.7627806908
+    },
+    {
+      "detail_date": "2024-01-07",
+      "detail_balance": 322047.6472600821
+    },
+    {
+      "detail_date": "2024-01-08",
+      "detail_balance": 323284.8012628794
+    },
+    {
+      "detail_date": "2024-01-09",
+      "detail_balance": 318042.27087040886
+    },
+    {
+      "detail_date": "2024-01-10",
+      "detail_balance": 318946.01050985797
+    },
+    {
+      "detail_date": "2024-01-11",
+      "detail_balance": 318893.6157864363
+    },
+    {
+      "detail_date": "2024-01-12",
+      "detail_balance": 319413.38628951774
+    },
+    {
+      "detail_date": "2024-01-13",
+      "detail_balance": 314484.369967492
+    },
+    {
+      "detail_date": "2024-01-14",
+      "detail_balance": 315634.22910592915
+    },
+    {
+      "detail_date": "2024-01-15",
+      "detail_balance": 316720.9497827794
+    },
+    {
+      "detail_date": "2024-01-16",
+      "detail_balance": 315241.58031733247
+    },
+    {
+      "detail_date": "2024-01-17",
+      "detail_balance": 315461.41506472515
+    },
+    {
+      "detail_date": "2024-01-18",
+      "detail_balance": 315793.64929578267
+    },
+    {
+      "detail_date": "2024-01-19",
+      "detail_balance": 314796.3493652264
+    },
+    {
+      "detail_date": "2024-01-20",
+      "detail_balance": 315913.35514550126
+    },
+    {
+      "detail_date": "2024-01-21",
+      "detail_balance": 316665.08343447745
+    },
+    {
+      "detail_date": "2024-01-22",
+      "detail_balance": 317186.0741694588
+    },
+    {
+      "detail_date": "2024-01-23",
+      "detail_balance": 317983.8962450858
+    },
+    {
+      "detail_date": "2024-01-24",
+      "detail_balance": 316628.9115594672
+    },
+    {
+      "detail_date": "2024-01-25",
+      "detail_balance": 317390.50129889045
+    },
+    {
+      "detail_date": "2024-01-26",
+      "detail_balance": 317777.29751390324
+    },
+    {
+      "detail_date": "2024-01-27",
+      "detail_balance": 318621.6474562111
+    },
+    {
+      "detail_date": "2024-01-28",
+      "detail_balance": 319342.45578516397
+    },
+    {
+      "detail_date": "2024-01-29",
+      "detail_balance": 320135.9112030434
+    },
+    {
+      "detail_date": "2024-01-30",
+      "detail_balance": 321406.083856122
+    },
+    {
+      "detail_date": "2024-01-31",
+      "detail_balance": 322799.94067827327
+    },
+    {
+      "detail_date": "2024-02-01",
+      "detail_balance": 323366.642898821
+    },
+    {
+      "detail_date": "2024-02-02",
+      "detail_balance": 318437.24693133193
+    },
+    {
+      "detail_date": "2024-02-03",
+      "detail_balance": 319428.541549951
+    },
+    {
+      "detail_date": "2024-02-04",
+      "detail_balance": 319627.9489825439
+    },
+    {
+      "detail_date": "2024-02-05",
+      "detail_balance": 350138.0291371955
+    },
+    {
+      "detail_date": "2024-02-06",
+      "detail_balance": 350916.85967405344
+    },
+    {
+      "detail_date": "2024-02-07",
+      "detail_balance": 350946.6378710511
+    },
+    {
+      "detail_date": "2024-02-08",
+      "detail_balance": 347583.48753771133
+    },
+    {
+      "detail_date": "2024-02-09",
+      "detail_balance": 347930.2702572568
+    },
+    {
+      "detail_date": "2024-02-10",
+      "detail_balance": 344076.24211303185
+    },
+    {
+      "detail_date": "2024-02-11",
+      "detail_balance": 345064.20975946233
+    },
+    {
+      "detail_date": "2024-02-12",
+      "detail_balance": 345729.79562253214
+    },
+    {
+      "detail_date": "2024-02-13",
+      "detail_balance": 346062.81824033783
+    },
+    {
+      "detail_date": "2024-02-14",
+      "detail_balance": 343066.5248234103
+    },
+    {
+      "detail_date": "2024-02-15",
+      "detail_balance": 343773.28469370876
+    }
+  ],
+  "to_network": 10
+},
+{
+  "_id": {
+    "$oid": "65d13d78bbc8ef6de6604a6d"
+  },
+  "address": "0x49048044D57e1C92A77f79988d21Fa8fAF74E97e",
+  "from_network": 1,
+  "balance": 178906.33375635,
+  "block_number": 19236754,
+  "date": "2024-02-15",
+  "detail": [
+    {
+      "detail_date": "2023-01-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-31",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-31",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-31",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-15",
+      "detail_balance": 0.56
+    },
+    {
+      "detail_date": "2023-06-16",
+      "detail_balance": 0.638221098
+    },
+    {
+      "detail_date": "2023-06-17",
+      "detail_balance": 0.638221098
+    },
+    {
+      "detail_date": "2023-06-18",
+      "detail_balance": 0.638221098
+    },
+    {
+      "detail_date": "2023-06-19",
+      "detail_balance": 0.638221098
+    },
+    {
+      "detail_date": "2023-06-20",
+      "detail_balance": 0.638221098
+    },
+    {
+      "detail_date": "2023-06-21",
+      "detail_balance": 12.635192426
+    },
+    {
+      "detail_date": "2023-06-22",
+      "detail_balance": 12.635192426
+    },
+    {
+      "detail_date": "2023-06-23",
+      "detail_balance": 12.635192426
+    },
+    {
+      "detail_date": "2023-06-24",
+      "detail_balance": 12.635192426
+    },
+    {
+      "detail_date": "2023-06-25",
+      "detail_balance": 12.635192426
+    },
+    {
+      "detail_date": "2023-06-26",
+      "detail_balance": 12.635192426000005
+    },
+    {
+      "detail_date": "2023-06-27",
+      "detail_balance": 12.635192426000005
+    },
+    {
+      "detail_date": "2023-06-28",
+      "detail_balance": 12.635193426000004
+    },
+    {
+      "detail_date": "2023-06-29",
+      "detail_balance": 12.860595663066375
+    },
+    {
+      "detail_date": "2023-06-30",
+      "detail_balance": 12.860595663066375
+    },
+    {
+      "detail_date": "2023-07-01",
+      "detail_balance": 12.860595663066375
+    },
+    {
+      "detail_date": "2023-07-02",
+      "detail_balance": 12.860595663066375
+    },
+    {
+      "detail_date": "2023-07-03",
+      "detail_balance": 12.860595663066375
+    },
+    {
+      "detail_date": "2023-07-04",
+      "detail_balance": 12.860595663066375
+    },
+    {
+      "detail_date": "2023-07-05",
+      "detail_balance": 212.8655956630664
+    },
+    {
+      "detail_date": "2023-07-06",
+      "detail_balance": 212.8655956630664
+    },
+    {
+      "detail_date": "2023-07-07",
+      "detail_balance": 212.8655956630664
+    },
+    {
+      "detail_date": "2023-07-08",
+      "detail_balance": 212.8655956630664
+    },
+    {
+      "detail_date": "2023-07-09",
+      "detail_balance": 212.8655956630664
+    },
+    {
+      "detail_date": "2023-07-10",
+      "detail_balance": 212.96559566306638
+    },
+    {
+      "detail_date": "2023-07-11",
+      "detail_balance": 213.71559566306638
+    },
+    {
+      "detail_date": "2023-07-12",
+      "detail_balance": 213.71559566306638
+    },
+    {
+      "detail_date": "2023-07-13",
+      "detail_balance": 236.25251471533616
+    },
+    {
+      "detail_date": "2023-07-14",
+      "detail_balance": 260.18396489699825
+    },
+    {
+      "detail_date": "2023-07-15",
+      "detail_balance": 285.47429660718853
+    },
+    {
+      "detail_date": "2023-07-16",
+      "detail_balance": 305.31608427621524
+    },
+    {
+      "detail_date": "2023-07-17",
+      "detail_balance": 321.9337364201739
+    },
+    {
+      "detail_date": "2023-07-18",
+      "detail_balance": 399.9206766954905
+    },
+    {
+      "detail_date": "2023-07-19",
+      "detail_balance": 414.6097008878413
+    },
+    {
+      "detail_date": "2023-07-20",
+      "detail_balance": 425.5598470109749
+    },
+    {
+      "detail_date": "2023-07-21",
+      "detail_balance": 471.7915851723575
+    },
+    {
+      "detail_date": "2023-07-22",
+      "detail_balance": 493.28302197999744
+    },
+    {
+      "detail_date": "2023-07-23",
+      "detail_balance": 511.2934197708096
+    },
+    {
+      "detail_date": "2023-07-24",
+      "detail_balance": 520.6787664613948
+    },
+    {
+      "detail_date": "2023-07-25",
+      "detail_balance": 542.5239016584669
+    },
+    {
+      "detail_date": "2023-07-26",
+      "detail_balance": 571.8632176985483
+    },
+    {
+      "detail_date": "2023-07-27",
+      "detail_balance": 656.3113908817879
+    },
+    {
+      "detail_date": "2023-07-28",
+      "detail_balance": 770.7312659689406
+    },
+    {
+      "detail_date": "2023-07-29",
+      "detail_balance": 1168.6067968891384
+    },
+    {
+      "detail_date": "2023-07-30",
+      "detail_balance": 32531.50778701383
+    },
+    {
+      "detail_date": "2023-07-31",
+      "detail_balance": 44351.561928175855
+    },
+    {
+      "detail_date": "2023-08-01",
+      "detail_balance": 45220.54800547026
+    },
+    {
+      "detail_date": "2023-08-02",
+      "detail_balance": 46424.23351483129
+    },
+    {
+      "detail_date": "2023-08-03",
+      "detail_balance": 49767.45026063288
+    },
+    {
+      "detail_date": "2023-08-04",
+      "detail_balance": 51669.986643918084
+    },
+    {
+      "detail_date": "2023-08-05",
+      "detail_balance": 54764.03939603713
+    },
+    {
+      "detail_date": "2023-08-06",
+      "detail_balance": 57492.72047700817
+    },
+    {
+      "detail_date": "2023-08-07",
+      "detail_balance": 61102.52787083445
+    },
+    {
+      "detail_date": "2023-08-08",
+      "detail_balance": 63867.427767897774
+    },
+    {
+      "detail_date": "2023-08-09",
+      "detail_balance": 68462.73359419254
+    },
+    {
+      "detail_date": "2023-08-10",
+      "detail_balance": 72529.21065033234
+    },
+    {
+      "detail_date": "2023-08-11",
+      "detail_balance": 78459.90212736769
+    },
+    {
+      "detail_date": "2023-08-12",
+      "detail_balance": 82215.3424411026
+    },
+    {
+      "detail_date": "2023-08-13",
+      "detail_balance": 78238.170870204
+    },
+    {
+      "detail_date": "2023-08-14",
+      "detail_balance": 81642.95338598639
+    },
+    {
+      "detail_date": "2023-08-15",
+      "detail_balance": 86820.5442881989
+    },
+    {
+      "detail_date": "2023-08-16",
+      "detail_balance": 88273.68917971599
+    },
+    {
+      "detail_date": "2023-08-17",
+      "detail_balance": 87106.79731016453
+    },
+    {
+      "detail_date": "2023-08-18",
+      "detail_balance": 86113.96035295467
+    },
+    {
+      "detail_date": "2023-08-19",
+      "detail_balance": 90157.73601487139
+    },
+    {
+      "detail_date": "2023-08-20",
+      "detail_balance": 91876.27627216412
+    },
+    {
+      "detail_date": "2023-08-21",
+      "detail_balance": 95529.89897955587
+    },
+    {
+      "detail_date": "2023-08-22",
+      "detail_balance": 96667.05038130836
+    },
+    {
+      "detail_date": "2023-08-23",
+      "detail_balance": 97871.15376414637
+    },
+    {
+      "detail_date": "2023-08-24",
+      "detail_balance": 97218.96973797593
+    },
+    {
+      "detail_date": "2023-08-25",
+      "detail_balance": 97591.96993185648
+    },
+    {
+      "detail_date": "2023-08-26",
+      "detail_balance": 96868.004287655
+    },
+    {
+      "detail_date": "2023-08-27",
+      "detail_balance": 98472.28750263508
+    },
+    {
+      "detail_date": "2023-08-28",
+      "detail_balance": 98838.0001039206
+    },
+    {
+      "detail_date": "2023-08-29",
+      "detail_balance": 99576.14007173819
+    },
+    {
+      "detail_date": "2023-08-30",
+      "detail_balance": 100055.34232239307
+    },
+    {
+      "detail_date": "2023-08-31",
+      "detail_balance": 124438.11282836337
+    },
+    {
+      "detail_date": "2023-09-01",
+      "detail_balance": 130044.60070369413
+    },
+    {
+      "detail_date": "2023-09-02",
+      "detail_balance": 130856.98404016806
+    },
+    {
+      "detail_date": "2023-09-03",
+      "detail_balance": 132172.94007659375
+    },
+    {
+      "detail_date": "2023-09-04",
+      "detail_balance": 133335.07936125097
+    },
+    {
+      "detail_date": "2023-09-05",
+      "detail_balance": 134305.3843160175
+    },
+    {
+      "detail_date": "2023-09-06",
+      "detail_balance": 135404.3309211128
+    },
+    {
+      "detail_date": "2023-09-07",
+      "detail_balance": 135543.16925649744
+    },
+    {
+      "detail_date": "2023-09-08",
+      "detail_balance": 136697.97150357303
+    },
+    {
+      "detail_date": "2023-09-09",
+      "detail_balance": 137657.31687154213
+    },
+    {
+      "detail_date": "2023-09-10",
+      "detail_balance": 139918.96269402056
+    },
+    {
+      "detail_date": "2023-09-11",
+      "detail_balance": 137833.6494858223
+    },
+    {
+      "detail_date": "2023-09-12",
+      "detail_balance": 140912.84389054152
+    },
+    {
+      "detail_date": "2023-09-13",
+      "detail_balance": 143370.37968886681
+    },
+    {
+      "detail_date": "2023-09-14",
+      "detail_balance": 143709.61128378529
+    },
+    {
+      "detail_date": "2023-09-15",
+      "detail_balance": 143859.84736375048
+    },
+    {
+      "detail_date": "2023-09-16",
+      "detail_balance": 144543.47000038845
+    },
+    {
+      "detail_date": "2023-09-17",
+      "detail_balance": 145840.6712510579
+    },
+    {
+      "detail_date": "2023-09-18",
+      "detail_balance": 145372.70752010943
+    },
+    {
+      "detail_date": "2023-09-19",
+      "detail_balance": 144266.3280310806
+    },
+    {
+      "detail_date": "2023-09-20",
+      "detail_balance": 143433.21400679334
+    },
+    {
+      "detail_date": "2023-09-21",
+      "detail_balance": 144842.85499589733
+    },
+    {
+      "detail_date": "2023-09-22",
+      "detail_balance": 144650.91033819393
+    },
+    {
+      "detail_date": "2023-09-23",
+      "detail_balance": 146042.827872108
+    },
+    {
+      "detail_date": "2023-09-24",
+      "detail_balance": 147588.76519173212
+    },
+    {
+      "detail_date": "2023-09-25",
+      "detail_balance": 148842.09688828117
+    },
+    {
+      "detail_date": "2023-09-26",
+      "detail_balance": 150989.13861000002
+    },
+    {
+      "detail_date": "2023-09-27",
+      "detail_balance": 152907.08934576306
+    },
+    {
+      "detail_date": "2023-09-28",
+      "detail_balance": 153658.17331724046
+    },
+    {
+      "detail_date": "2023-09-29",
+      "detail_balance": 156231.44594530037
+    },
+    {
+      "detail_date": "2023-09-30",
+      "detail_balance": 158102.81768980378
+    },
+    {
+      "detail_date": "2023-10-01",
+      "detail_balance": 161764.01569158738
+    },
+    {
+      "detail_date": "2023-10-02",
+      "detail_balance": 161261.25330339198
+    },
+    {
+      "detail_date": "2023-10-03",
+      "detail_balance": 159792.93134931533
+    },
+    {
+      "detail_date": "2023-10-04",
+      "detail_balance": 161771.54131293774
+    },
+    {
+      "detail_date": "2023-10-05",
+      "detail_balance": 163277.55853928343
+    },
+    {
+      "detail_date": "2023-10-06",
+      "detail_balance": 163155.2505284953
+    },
+    {
+      "detail_date": "2023-10-07",
+      "detail_balance": 164596.62899672802
+    },
+    {
+      "detail_date": "2023-10-08",
+      "detail_balance": 164839.68104433417
+    },
+    {
+      "detail_date": "2023-10-09",
+      "detail_balance": 165933.68319101582
+    },
+    {
+      "detail_date": "2023-10-10",
+      "detail_balance": 166175.1321864501
+    },
+    {
+      "detail_date": "2023-10-11",
+      "detail_balance": 166659.6164668196
+    },
+    {
+      "detail_date": "2023-10-12",
+      "detail_balance": 168699.27278853068
+    },
+    {
+      "detail_date": "2023-10-13",
+      "detail_balance": 168870.72400248665
+    },
+    {
+      "detail_date": "2023-10-14",
+      "detail_balance": 168532.9178560818
+    },
+    {
+      "detail_date": "2023-10-15",
+      "detail_balance": 169371.1007117036
+    },
+    {
+      "detail_date": "2023-10-16",
+      "detail_balance": 169685.71727516584
+    },
+    {
+      "detail_date": "2023-10-17",
+      "detail_balance": 170297.1424552303
+    },
+    {
+      "detail_date": "2023-10-18",
+      "detail_balance": 169954.7172118762
+    },
+    {
+      "detail_date": "2023-10-19",
+      "detail_balance": 170855.02124027294
+    },
+    {
+      "detail_date": "2023-10-20",
+      "detail_balance": 170961.23487568833
+    },
+    {
+      "detail_date": "2023-10-21",
+      "detail_balance": 170187.1293657722
+    },
+    {
+      "detail_date": "2023-10-22",
+      "detail_balance": 170280.24029460337
+    },
+    {
+      "detail_date": "2023-10-23",
+      "detail_balance": 170253.3159275712
+    },
+    {
+      "detail_date": "2023-10-24",
+      "detail_balance": 170427.06755640887
+    },
+    {
+      "detail_date": "2023-10-25",
+      "detail_balance": 170700.45267846013
+    },
+    {
+      "detail_date": "2023-10-26",
+      "detail_balance": 170842.3667818868
+    },
+    {
+      "detail_date": "2023-10-27",
+      "detail_balance": 170606.35945609256
+    },
+    {
+      "detail_date": "2023-10-28",
+      "detail_balance": 170578.24994664403
+    },
+    {
+      "detail_date": "2023-10-29",
+      "detail_balance": 170500.46954623135
+    },
+    {
+      "detail_date": "2023-10-30",
+      "detail_balance": 170053.74552272365
+    },
+    {
+      "detail_date": "2023-10-31",
+      "detail_balance": 169593.9793723432
+    },
+    {
+      "detail_date": "2023-11-01",
+      "detail_balance": 169010.78960480142
+    },
+    {
+      "detail_date": "2023-11-02",
+      "detail_balance": 169392.74040385152
+    },
+    {
+      "detail_date": "2023-11-03",
+      "detail_balance": 168406.83508746224
+    },
+    {
+      "detail_date": "2023-11-04",
+      "detail_balance": 168587.03659497548
+    },
+    {
+      "detail_date": "2023-11-05",
+      "detail_balance": 168208.08825487146
+    },
+    {
+      "detail_date": "2023-11-06",
+      "detail_balance": 168318.95881816905
+    },
+    {
+      "detail_date": "2023-11-07",
+      "detail_balance": 166501.78632065002
+    },
+    {
+      "detail_date": "2023-11-08",
+      "detail_balance": 166669.4647539944
+    },
+    {
+      "detail_date": "2023-11-09",
+      "detail_balance": 165690.62582860386
+    },
+    {
+      "detail_date": "2023-11-10",
+      "detail_balance": 165802.1552156732
+    },
+    {
+      "detail_date": "2023-11-11",
+      "detail_balance": 164837.20101029112
+    },
+    {
+      "detail_date": "2023-11-12",
+      "detail_balance": 164225.9113741583
+    },
+    {
+      "detail_date": "2023-11-13",
+      "detail_balance": 164354.68786180016
+    },
+    {
+      "detail_date": "2023-11-14",
+      "detail_balance": 163456.12634793748
+    },
+    {
+      "detail_date": "2023-11-15",
+      "detail_balance": 162711.961975038
+    },
+    {
+      "detail_date": "2023-11-16",
+      "detail_balance": 162789.5295273745
+    },
+    {
+      "detail_date": "2023-11-17",
+      "detail_balance": 162764.86246887746
+    },
+    {
+      "detail_date": "2023-11-18",
+      "detail_balance": 163629.69382376864
+    },
+    {
+      "detail_date": "2023-11-19",
+      "detail_balance": 163858.80627927592
+    },
+    {
+      "detail_date": "2023-11-20",
+      "detail_balance": 164654.555219384
+    },
+    {
+      "detail_date": "2023-11-21",
+      "detail_balance": 164967.2398421466
+    },
+    {
+      "detail_date": "2023-11-22",
+      "detail_balance": 165134.0547446629
+    },
+    {
+      "detail_date": "2023-11-23",
+      "detail_balance": 164193.7637202392
+    },
+    {
+      "detail_date": "2023-11-24",
+      "detail_balance": 163918.73670790083
+    },
+    {
+      "detail_date": "2023-11-25",
+      "detail_balance": 164586.37632170253
+    },
+    {
+      "detail_date": "2023-11-26",
+      "detail_balance": 164623.6426372884
+    },
+    {
+      "detail_date": "2023-11-27",
+      "detail_balance": 163955.19951451084
+    },
+    {
+      "detail_date": "2023-11-28",
+      "detail_balance": 163739.3089937115
+    },
+    {
+      "detail_date": "2023-11-29",
+      "detail_balance": 162570.29696531247
+    },
+    {
+      "detail_date": "2023-11-30",
+      "detail_balance": 166299.67033261666
+    },
+    {
+      "detail_date": "2023-12-01",
+      "detail_balance": 166356.3264437281
+    },
+    {
+      "detail_date": "2023-12-02",
+      "detail_balance": 166260.08643683026
+    },
+    {
+      "detail_date": "2023-12-03",
+      "detail_balance": 165737.5430557129
+    },
+    {
+      "detail_date": "2023-12-04",
+      "detail_balance": 165825.72826053426
+    },
+    {
+      "detail_date": "2023-12-05",
+      "detail_balance": 164521.1395317232
+    },
+    {
+      "detail_date": "2023-12-06",
+      "detail_balance": 164430.0155628058
+    },
+    {
+      "detail_date": "2023-12-07",
+      "detail_balance": 164533.38199287563
+    },
+    {
+      "detail_date": "2023-12-08",
+      "detail_balance": 165140.00439075794
+    },
+    {
+      "detail_date": "2023-12-09",
+      "detail_balance": 157765.65431284232
+    },
+    {
+      "detail_date": "2023-12-10",
+      "detail_balance": 157764.92932689065
+    },
+    {
+      "detail_date": "2023-12-11",
+      "detail_balance": 162255.3129957326
+    },
+    {
+      "detail_date": "2023-12-12",
+      "detail_balance": 171804.49409647117
+    },
+    {
+      "detail_date": "2023-12-13",
+      "detail_balance": 173372.6848852125
+    },
+    {
+      "detail_date": "2023-12-14",
+      "detail_balance": 172963.88078128314
+    },
+    {
+      "detail_date": "2023-12-15",
+      "detail_balance": 173967.08016967235
+    },
+    {
+      "detail_date": "2023-12-16",
+      "detail_balance": 175286.67683570433
+    },
+    {
+      "detail_date": "2023-12-17",
+      "detail_balance": 177527.63345788844
+    },
+    {
+      "detail_date": "2023-12-18",
+      "detail_balance": 177681.12455825988
+    },
+    {
+      "detail_date": "2023-12-19",
+      "detail_balance": 180211.64948781652
+    },
+    {
+      "detail_date": "2023-12-20",
+      "detail_balance": 181333.31232502632
+    },
+    {
+      "detail_date": "2023-12-21",
+      "detail_balance": 181398.43725366204
+    },
+    {
+      "detail_date": "2023-12-22",
+      "detail_balance": 182622.50220296212
+    },
+    {
+      "detail_date": "2023-12-23",
+      "detail_balance": 183610.27643083106
+    },
+    {
+      "detail_date": "2023-12-24",
+      "detail_balance": 184084.78981475128
+    },
+    {
+      "detail_date": "2023-12-25",
+      "detail_balance": 188080.8048827374
+    },
+    {
+      "detail_date": "2023-12-26",
+      "detail_balance": 189283.87400612657
+    },
+    {
+      "detail_date": "2023-12-27",
+      "detail_balance": 189631.1458876187
+    },
+    {
+      "detail_date": "2023-12-28",
+      "detail_balance": 188701.32549316762
+    },
+    {
+      "detail_date": "2023-12-29",
+      "detail_balance": 190596.0337252089
+    },
+    {
+      "detail_date": "2023-12-30",
+      "detail_balance": 191242.80277902746
+    },
+    {
+      "detail_date": "2023-12-31",
+      "detail_balance": 191280.90963459382
+    },
+    {
+      "detail_date": "2024-01-01",
+      "detail_balance": 185988.37585765144
+    },
+    {
+      "detail_date": "2024-01-02",
+      "detail_balance": 185836.67355284156
+    },
+    {
+      "detail_date": "2024-01-03",
+      "detail_balance": 184950.02810389115
+    },
+    {
+      "detail_date": "2024-01-04",
+      "detail_balance": 184529.70982870884
+    },
+    {
+      "detail_date": "2024-01-05",
+      "detail_balance": 179395.6856316958
+    },
+    {
+      "detail_date": "2024-01-06",
+      "detail_balance": 179197.27826162428
+    },
+    {
+      "detail_date": "2024-01-07",
+      "detail_balance": 179530.96428653828
+    },
+    {
+      "detail_date": "2024-01-08",
+      "detail_balance": 180431.51498004858
+    },
+    {
+      "detail_date": "2024-01-09",
+      "detail_balance": 177431.75350900876
+    },
+    {
+      "detail_date": "2024-01-10",
+      "detail_balance": 178356.35136711414
+    },
+    {
+      "detail_date": "2024-01-11",
+      "detail_balance": 178253.2893516682
+    },
+    {
+      "detail_date": "2024-01-12",
+      "detail_balance": 179356.11021658554
+    },
+    {
+      "detail_date": "2024-01-13",
+      "detail_balance": 175966.3514300104
+    },
+    {
+      "detail_date": "2024-01-14",
+      "detail_balance": 176407.01901232902
+    },
+    {
+      "detail_date": "2024-01-15",
+      "detail_balance": 176648.41825233685
+    },
+    {
+      "detail_date": "2024-01-16",
+      "detail_balance": 174281.32658074383
+    },
+    {
+      "detail_date": "2024-01-17",
+      "detail_balance": 174065.58903952801
+    },
+    {
+      "detail_date": "2024-01-18",
+      "detail_balance": 174892.4004897294
+    },
+    {
+      "detail_date": "2024-01-19",
+      "detail_balance": 175986.2936139371
+    },
+    {
+      "detail_date": "2024-01-20",
+      "detail_balance": 176768.24423277884
+    },
+    {
+      "detail_date": "2024-01-21",
+      "detail_balance": 177503.0973205859
+    },
+    {
+      "detail_date": "2024-01-22",
+      "detail_balance": 178676.80963761124
+    },
+    {
+      "detail_date": "2024-01-23",
+      "detail_balance": 179993.6975429537
+    },
+    {
+      "detail_date": "2024-01-24",
+      "detail_balance": 178474.0714838195
+    },
+    {
+      "detail_date": "2024-01-25",
+      "detail_balance": 178740.9898543445
+    },
+    {
+      "detail_date": "2024-01-26",
+      "detail_balance": 179196.80212112927
+    },
+    {
+      "detail_date": "2024-01-27",
+      "detail_balance": 180968.79195230742
+    },
+    {
+      "detail_date": "2024-01-28",
+      "detail_balance": 181709.07387126045
+    },
+    {
+      "detail_date": "2024-01-29",
+      "detail_balance": 182112.6123946992
+    },
+    {
+      "detail_date": "2024-01-30",
+      "detail_balance": 182697.02865853574
+    },
+    {
+      "detail_date": "2024-01-31",
+      "detail_balance": 183070.95920188166
+    },
+    {
+      "detail_date": "2024-02-01",
+      "detail_balance": 184099.11354605886
+    },
+    {
+      "detail_date": "2024-02-02",
+      "detail_balance": 177663.78192451526
+    },
+    {
+      "detail_date": "2024-02-03",
+      "detail_balance": 179989.7578963778
+    },
+    {
+      "detail_date": "2024-02-04",
+      "detail_balance": 181763.97075359788
+    },
+    {
+      "detail_date": "2024-02-05",
+      "detail_balance": 183772.08973514324
+    },
+    {
+      "detail_date": "2024-02-06",
+      "detail_balance": 185494.79377789688
+    },
+    {
+      "detail_date": "2024-02-07",
+      "detail_balance": 186752.02153186107
+    },
+    {
+      "detail_date": "2024-02-08",
+      "detail_balance": 185738.60906327385
+    },
+    {
+      "detail_date": "2024-02-09",
+      "detail_balance": 186620.65651519108
+    },
+    {
+      "detail_date": "2024-02-10",
+      "detail_balance": 183107.80044813224
+    },
+    {
+      "detail_date": "2024-02-11",
+      "detail_balance": 181382.6387604936
+    },
+    {
+      "detail_date": "2024-02-12",
+      "detail_balance": 182125.5127396896
+    },
+    {
+      "detail_date": "2024-02-13",
+      "detail_balance": 179871.95356811266
+    },
+    {
+      "detail_date": "2024-02-14",
+      "detail_balance": 180107.00209948604
+    },
+    {
+      "detail_date": "2024-02-15",
+      "detail_balance": 178906.33375635
+    }
+  ],
+  "to_network": 8453
+},
+{
+  "_id": {
+    "$oid": "65d13da9bbc8ef6de6604a95"
+  },
+  "address": "0xd19d4B5d358258f05D7B411E21A1460D11B0876F",
+  "from_network": 1,
+  "balance": 60768.65588840753,
+  "block_number": 19236754,
+  "date": "2024-02-15",
+  "detail": [
+    {
+      "detail_date": "2023-01-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-01-31",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-02-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-03-31",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-04-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-05-31",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-12",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-13",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-14",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-15",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-16",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-17",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-18",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-19",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-20",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-21",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-22",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-23",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-24",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-25",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-26",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-27",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-28",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-29",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-06-30",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-01",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-02",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-03",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-04",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-05",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-06",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-07",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-08",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-09",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-10",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-11",
+      "detail_balance": 0
+    },
+    {
+      "detail_date": "2023-07-12",
+      "detail_balance": 0.254869
+    },
+    {
+      "detail_date": "2023-07-13",
+      "detail_balance": 17.099563725423
+    },
+    {
+      "detail_date": "2023-07-14",
+      "detail_balance": 92.3493465830085
+    },
+    {
+      "detail_date": "2023-07-15",
+      "detail_balance": 94.4079529016649
+    },
+    {
+      "detail_date": "2023-07-16",
+      "detail_balance": 107.376775450997
+    },
+    {
+      "detail_date": "2023-07-17",
+      "detail_balance": 139.393768320653
+    },
+    {
+      "detail_date": "2023-07-18",
+      "detail_balance": 1411.990173850942
+    },
+    {
+      "detail_date": "2023-07-19",
+      "detail_balance": 4726.576054995759
+    },
+    {
+      "detail_date": "2023-07-20",
+      "detail_balance": 6318.729936416208
+    },
+    {
+      "detail_date": "2023-07-21",
+      "detail_balance": 7717.9067066335465
+    },
+    {
+      "detail_date": "2023-07-22",
+      "detail_balance": 9427.841704047614
+    },
+    {
+      "detail_date": "2023-07-23",
+      "detail_balance": 11066.421810356896
+    },
+    {
+      "detail_date": "2023-07-24",
+      "detail_balance": 11677.115020775695
+    },
+    {
+      "detail_date": "2023-07-25",
+      "detail_balance": 12807.37024334361
+    },
+    {
+      "detail_date": "2023-07-26",
+      "detail_balance": 13164.438571838025
+    },
+    {
+      "detail_date": "2023-07-27",
+      "detail_balance": 14415.732527444534
+    },
+    {
+      "detail_date": "2023-07-28",
+      "detail_balance": 14590.93180417445
+    },
+    {
+      "detail_date": "2023-07-29",
+      "detail_balance": 16629.877763092565
+    },
+    {
+      "detail_date": "2023-07-30",
+      "detail_balance": 17061.233181084124
+    },
+    {
+      "detail_date": "2023-07-31",
+      "detail_balance": 16843.213948569006
+    },
+    {
+      "detail_date": "2023-08-01",
+      "detail_balance": 16173.178038916574
+    },
+    {
+      "detail_date": "2023-08-02",
+      "detail_balance": 15777.653787656143
+    },
+    {
+      "detail_date": "2023-08-03",
+      "detail_balance": 15330.932217926209
+    },
+    {
+      "detail_date": "2023-08-04",
+      "detail_balance": 15545.96907372364
+    },
+    {
+      "detail_date": "2023-08-05",
+      "detail_balance": 15713.389153877533
+    },
+    {
+      "detail_date": "2023-08-06",
+      "detail_balance": 15475.498584562154
+    },
+    {
+      "detail_date": "2023-08-07",
+      "detail_balance": 15704.221874488714
+    },
+    {
+      "detail_date": "2023-08-08",
+      "detail_balance": 15102.692675170687
+    },
+    {
+      "detail_date": "2023-08-09",
+      "detail_balance": 14474.864255914603
+    },
+    {
+      "detail_date": "2023-08-10",
+      "detail_balance": 14198.47432084041
+    },
+    {
+      "detail_date": "2023-08-11",
+      "detail_balance": 14002.476503019838
+    },
+    {
+      "detail_date": "2023-08-12",
+      "detail_balance": 14384.878836156571
+    },
+    {
+      "detail_date": "2023-08-13",
+      "detail_balance": 14415.982000028127
+    },
+    {
+      "detail_date": "2023-08-14",
+      "detail_balance": 14420.51411977392
+    },
+    {
+      "detail_date": "2023-08-15",
+      "detail_balance": 14233.409866883352
+    },
+    {
+      "detail_date": "2023-08-16",
+      "detail_balance": 14273.057718920245
+    },
+    {
+      "detail_date": "2023-08-17",
+      "detail_balance": 14142.79016791962
+    },
+    {
+      "detail_date": "2023-08-18",
+      "detail_balance": 14355.062191081732
+    },
+    {
+      "detail_date": "2023-08-19",
+      "detail_balance": 14560.263336388098
+    },
+    {
+      "detail_date": "2023-08-20",
+      "detail_balance": 14871.694833121459
+    },
+    {
+      "detail_date": "2023-08-21",
+      "detail_balance": 15048.487251066026
+    },
+    {
+      "detail_date": "2023-08-22",
+      "detail_balance": 14903.015306856742
+    },
+    {
+      "detail_date": "2023-08-23",
+      "detail_balance": 15826.09943236847
+    },
+    {
+      "detail_date": "2023-08-24",
+      "detail_balance": 16233.51280131741
+    },
+    {
+      "detail_date": "2023-08-25",
+      "detail_balance": 16467.099894401053
+    },
+    {
+      "detail_date": "2023-08-26",
+      "detail_balance": 17175.56972060034
+    },
+    {
+      "detail_date": "2023-08-27",
+      "detail_balance": 17365.794689958206
+    },
+    {
+      "detail_date": "2023-08-28",
+      "detail_balance": 17931.99456385467
+    },
+    {
+      "detail_date": "2023-08-29",
+      "detail_balance": 18111.618792896978
+    },
+    {
+      "detail_date": "2023-08-30",
+      "detail_balance": 17939.06040821599
+    },
+    {
+      "detail_date": "2023-08-31",
+      "detail_balance": 18000.56056131369
+    },
+    {
+      "detail_date": "2023-09-01",
+      "detail_balance": 18264.137931947695
+    },
+    {
+      "detail_date": "2023-09-02",
+      "detail_balance": 18426.39926503973
+    },
+    {
+      "detail_date": "2023-09-03",
+      "detail_balance": 18852.073995871688
+    },
+    {
+      "detail_date": "2023-09-04",
+      "detail_balance": 19242.898983884017
+    },
+    {
+      "detail_date": "2023-09-05",
+      "detail_balance": 19722.396085760145
+    },
+    {
+      "detail_date": "2023-09-06",
+      "detail_balance": 19987.82437461982
+    },
+    {
+      "detail_date": "2023-09-07",
+      "detail_balance": 20447.531408239145
+    },
+    {
+      "detail_date": "2023-09-08",
+      "detail_balance": 20787.529393601442
+    },
+    {
+      "detail_date": "2023-09-09",
+      "detail_balance": 20925.142334438806
+    },
+    {
+      "detail_date": "2023-09-10",
+      "detail_balance": 21285.542190273103
+    },
+    {
+      "detail_date": "2023-09-11",
+      "detail_balance": 21543.773761921388
+    },
+    {
+      "detail_date": "2023-09-12",
+      "detail_balance": 22011.51660426653
+    },
+    {
+      "detail_date": "2023-09-13",
+      "detail_balance": 21890.46534169241
+    },
+    {
+      "detail_date": "2023-09-14",
+      "detail_balance": 21941.820694059308
+    },
+    {
+      "detail_date": "2023-09-15",
+      "detail_balance": 22365.254384231554
+    },
+    {
+      "detail_date": "2023-09-16",
+      "detail_balance": 22658.899915305487
+    },
+    {
+      "detail_date": "2023-09-17",
+      "detail_balance": 23506.519205676475
+    },
+    {
+      "detail_date": "2023-09-18",
+      "detail_balance": 23813.073227985013
+    },
+    {
+      "detail_date": "2023-09-19",
+      "detail_balance": 24107.625974690727
+    },
+    {
+      "detail_date": "2023-09-20",
+      "detail_balance": 24498.139503922575
+    },
+    {
+      "detail_date": "2023-09-21",
+      "detail_balance": 24800.124676412954
+    },
+    {
+      "detail_date": "2023-09-22",
+      "detail_balance": 25417.765422710043
+    },
+    {
+      "detail_date": "2023-09-23",
+      "detail_balance": 25401.81856326184
+    },
+    {
+      "detail_date": "2023-09-24",
+      "detail_balance": 26057.4542612128
+    },
+    {
+      "detail_date": "2023-09-25",
+      "detail_balance": 26198.421384889683
+    },
+    {
+      "detail_date": "2023-09-26",
+      "detail_balance": 25606.99947010868
+    },
+    {
+      "detail_date": "2023-09-27",
+      "detail_balance": 26147.572044413057
+    },
+    {
+      "detail_date": "2023-09-28",
+      "detail_balance": 29598.76258012945
+    },
+    {
+      "detail_date": "2023-09-29",
+      "detail_balance": 29749.990592954557
+    },
+    {
+      "detail_date": "2023-09-30",
+      "detail_balance": 30265.85625260043
+    },
+    {
+      "detail_date": "2023-10-01",
+      "detail_balance": 31046.928111226745
+    },
+    {
+      "detail_date": "2023-10-02",
+      "detail_balance": 30414.742333274822
+    },
+    {
+      "detail_date": "2023-10-03",
+      "detail_balance": 31477.931271094858
+    },
+    {
+      "detail_date": "2023-10-04",
+      "detail_balance": 31594.815236009126
+    },
+    {
+      "detail_date": "2023-10-05",
+      "detail_balance": 31271.935300507907
+    },
+    {
+      "detail_date": "2023-10-06",
+      "detail_balance": 32417.64970820233
+    },
+    {
+      "detail_date": "2023-10-07",
+      "detail_balance": 32284.132622487974
+    },
+    {
+      "detail_date": "2023-10-08",
+      "detail_balance": 34086.46243294379
+    },
+    {
+      "detail_date": "2023-10-09",
+      "detail_balance": 33433.837101618796
+    },
+    {
+      "detail_date": "2023-10-10",
+      "detail_balance": 32222.498042053434
+    },
+    {
+      "detail_date": "2023-10-11",
+      "detail_balance": 32294.28108641294
+    },
+    {
+      "detail_date": "2023-10-12",
+      "detail_balance": 31945.667155225234
+    },
+    {
+      "detail_date": "2023-10-13",
+      "detail_balance": 33095.01717399296
+    },
+    {
+      "detail_date": "2023-10-14",
+      "detail_balance": 33113.381255948916
+    },
+    {
+      "detail_date": "2023-10-15",
+      "detail_balance": 33437.637111401535
+    },
+    {
+      "detail_date": "2023-10-16",
+      "detail_balance": 34174.32395970394
+    },
+    {
+      "detail_date": "2023-10-17",
+      "detail_balance": 33894.256158434044
+    },
+    {
+      "detail_date": "2023-10-18",
+      "detail_balance": 34443.46289780069
+    },
+    {
+      "detail_date": "2023-10-19",
+      "detail_balance": 34907.93836933879
+    },
+    {
+      "detail_date": "2023-10-20",
+      "detail_balance": 33890.262129157796
+    },
+    {
+      "detail_date": "2023-10-21",
+      "detail_balance": 34533.155289288785
+    },
+    {
+      "detail_date": "2023-10-22",
+      "detail_balance": 35338.32355203073
+    },
+    {
+      "detail_date": "2023-10-23",
+      "detail_balance": 34757.8508412879
+    },
+    {
+      "detail_date": "2023-10-24",
+      "detail_balance": 33285.4457220945
+    },
+    {
+      "detail_date": "2023-10-25",
+      "detail_balance": 33981.961684878224
+    },
+    {
+      "detail_date": "2023-10-26",
+      "detail_balance": 33224.10555556098
+    },
+    {
+      "detail_date": "2023-10-27",
+      "detail_balance": 32285.067107910298
+    },
+    {
+      "detail_date": "2023-10-28",
+      "detail_balance": 33393.476969424104
+    },
+    {
+      "detail_date": "2023-10-29",
+      "detail_balance": 34219.613813627526
+    },
+    {
+      "detail_date": "2023-10-30",
+      "detail_balance": 33598.17986110453
+    },
+    {
+      "detail_date": "2023-10-31",
+      "detail_balance": 32488.61178420688
+    },
+    {
+      "detail_date": "2023-11-01",
+      "detail_balance": 33494.34687819134
+    },
+    {
+      "detail_date": "2023-11-02",
+      "detail_balance": 32160.088716027793
+    },
+    {
+      "detail_date": "2023-11-03",
+      "detail_balance": 31469.858748657603
+    },
+    {
+      "detail_date": "2023-11-04",
+      "detail_balance": 32349.10489083251
+    },
+    {
+      "detail_date": "2023-11-05",
+      "detail_balance": 31285.810217164333
+    },
+    {
+      "detail_date": "2023-11-06",
+      "detail_balance": 30274.76842204983
+    },
+    {
+      "detail_date": "2023-11-07",
+      "detail_balance": 30855.869726406865
+    },
+    {
+      "detail_date": "2023-11-08",
+      "detail_balance": 30810.963891847925
+    },
+    {
+      "detail_date": "2023-11-09",
+      "detail_balance": 30197.86652029243
+    },
+    {
+      "detail_date": "2023-11-10",
+      "detail_balance": 30096.67233501812
+    },
+    {
+      "detail_date": "2023-11-11",
+      "detail_balance": 28873.4442738704
+    },
+    {
+      "detail_date": "2023-11-12",
+      "detail_balance": 28525.888513735197
+    },
+    {
+      "detail_date": "2023-11-13",
+      "detail_balance": 29772.237860113175
+    },
+    {
+      "detail_date": "2023-11-14",
+      "detail_balance": 31800.06393345543
+    },
+    {
+      "detail_date": "2023-11-15",
+      "detail_balance": 41872.888773438775
+    },
+    {
+      "detail_date": "2023-11-16",
+      "detail_balance": 51712.217108634504
+    },
+    {
+      "detail_date": "2023-11-17",
+      "detail_balance": 68763.15133502833
+    },
+    {
+      "detail_date": "2023-11-18",
+      "detail_balance": 87772.09172046663
+    },
+    {
+      "detail_date": "2023-11-19",
+      "detail_balance": 108741.32912796883
+    },
+    {
+      "detail_date": "2023-11-20",
+      "detail_balance": 115133.97158410188
+    },
+    {
+      "detail_date": "2023-11-21",
+      "detail_balance": 120558.20269972777
+    },
+    {
+      "detail_date": "2023-11-22",
+      "detail_balance": 114621.56220604424
+    },
+    {
+      "detail_date": "2023-11-23",
+      "detail_balance": 100347.70618551027
+    },
+    {
+      "detail_date": "2023-11-24",
+      "detail_balance": 99005.00736096142
+    },
+    {
+      "detail_date": "2023-11-25",
+      "detail_balance": 83397.07371849265
+    },
+    {
+      "detail_date": "2023-11-26",
+      "detail_balance": 75685.05322788874
+    },
+    {
+      "detail_date": "2023-11-27",
+      "detail_balance": 63730.9053342523
+    },
+    {
+      "detail_date": "2023-11-28",
+      "detail_balance": 53257.19972856619
+    },
+    {
+      "detail_date": "2023-11-29",
+      "detail_balance": 53440.91345353188
+    },
+    {
+      "detail_date": "2023-11-30",
+      "detail_balance": 54862.814374885966
+    },
+    {
+      "detail_date": "2023-12-01",
+      "detail_balance": 54328.34028187438
+    },
+    {
+      "detail_date": "2023-12-02",
+      "detail_balance": 56532.92435606419
+    },
+    {
+      "detail_date": "2023-12-03",
+      "detail_balance": 58759.03963811782
+    },
+    {
+      "detail_date": "2023-12-04",
+      "detail_balance": 59711.47465799578
+    },
+    {
+      "detail_date": "2023-12-05",
+      "detail_balance": 61375.90739540364
+    },
+    {
+      "detail_date": "2023-12-06",
+      "detail_balance": 57197.981146385144
+    },
+    {
+      "detail_date": "2023-12-07",
+      "detail_balance": 53422.0408449026
+    },
+    {
+      "detail_date": "2023-12-08",
+      "detail_balance": 49814.93982528621
+    },
+    {
+      "detail_date": "2023-12-09",
+      "detail_balance": 52414.09290858959
+    },
+    {
+      "detail_date": "2023-12-10",
+      "detail_balance": 51859.61364258303
+    },
+    {
+      "detail_date": "2023-12-11",
+      "detail_balance": 54570.38760515229
+    },
+    {
+      "detail_date": "2023-12-12",
+      "detail_balance": 57050.12716142915
+    },
+    {
+      "detail_date": "2023-12-13",
+      "detail_balance": 59228.307107683366
+    },
+    {
+      "detail_date": "2023-12-14",
+      "detail_balance": 60106.19368397467
+    },
+    {
+      "detail_date": "2023-12-15",
+      "detail_balance": 61250.24997572638
+    },
+    {
+      "detail_date": "2023-12-16",
+      "detail_balance": 62172.64907677999
+    },
+    {
+      "detail_date": "2023-12-17",
+      "detail_balance": 62328.30733612049
+    },
+    {
+      "detail_date": "2023-12-18",
+      "detail_balance": 63252.44906225487
+    },
+    {
+      "detail_date": "2023-12-19",
+      "detail_balance": 65570.11384298326
+    },
+    {
+      "detail_date": "2023-12-20",
+      "detail_balance": 62926.99304951423
+    },
+    {
+      "detail_date": "2023-12-21",
+      "detail_balance": 64363.033977020394
+    },
+    {
+      "detail_date": "2023-12-22",
+      "detail_balance": 60627.50772536369
+    },
+    {
+      "detail_date": "2023-12-23",
+      "detail_balance": 62903.056082231786
+    },
+    {
+      "detail_date": "2023-12-24",
+      "detail_balance": 64741.00120485107
+    },
+    {
+      "detail_date": "2023-12-25",
+      "detail_balance": 66497.06912813142
+    },
+    {
+      "detail_date": "2023-12-26",
+      "detail_balance": 70367.38583155323
+    },
+    {
+      "detail_date": "2023-12-27",
+      "detail_balance": 62521.21801505295
+    },
+    {
+      "detail_date": "2023-12-28",
+      "detail_balance": 64218.16698636858
+    },
+    {
+      "detail_date": "2023-12-29",
+      "detail_balance": 66488.30718283166
+    },
+    {
+      "detail_date": "2023-12-30",
+      "detail_balance": 63439.71231290989
+    },
+    {
+      "detail_date": "2023-12-31",
+      "detail_balance": 66145.5495920738
+    },
+    {
+      "detail_date": "2024-01-01",
+      "detail_balance": 64955.49697300959
+    },
+    {
+      "detail_date": "2024-01-02",
+      "detail_balance": 66915.74968889239
+    },
+    {
+      "detail_date": "2024-01-03",
+      "detail_balance": 67415.16880717929
+    },
+    {
+      "detail_date": "2024-01-04",
+      "detail_balance": 65091.22315515875
+    },
+    {
+      "detail_date": "2024-01-05",
+      "detail_balance": 67556.35208993565
+    },
+    {
+      "detail_date": "2024-01-06",
+      "detail_balance": 62821.294654312595
+    },
+    {
+      "detail_date": "2024-01-07",
+      "detail_balance": 64353.365022926446
+    },
+    {
+      "detail_date": "2024-01-08",
+      "detail_balance": 67429.26055854399
+    },
+    {
+      "detail_date": "2024-01-09",
+      "detail_balance": 64290.355521605656
+    },
+    {
+      "detail_date": "2024-01-10",
+      "detail_balance": 66776.30837056201
+    },
+    {
+      "detail_date": "2024-01-11",
+      "detail_balance": 63140.35394152178
+    },
+    {
+      "detail_date": "2024-01-12",
+      "detail_balance": 57322.87007420267
+    },
+    {
+      "detail_date": "2024-01-13",
+      "detail_balance": 60408.010461907725
+    },
+    {
+      "detail_date": "2024-01-14",
+      "detail_balance": 61815.540879900145
+    },
+    {
+      "detail_date": "2024-01-15",
+      "detail_balance": 64230.94277776039
+    },
+    {
+      "detail_date": "2024-01-16",
+      "detail_balance": 65708.98253854064
+    },
+    {
+      "detail_date": "2024-01-17",
+      "detail_balance": 66492.44071172285
+    },
+    {
+      "detail_date": "2024-01-18",
+      "detail_balance": 63629.216777985894
+    },
+    {
+      "detail_date": "2024-01-19",
+      "detail_balance": 65152.526023404964
+    },
+    {
+      "detail_date": "2024-01-20",
+      "detail_balance": 63793.29052824251
+    },
+    {
+      "detail_date": "2024-01-21",
+      "detail_balance": 66144.25923336932
+    },
+    {
+      "detail_date": "2024-01-22",
+      "detail_balance": 68340.35049701332
+    },
+    {
+      "detail_date": "2024-01-23",
+      "detail_balance": 70310.29639292075
+    },
+    {
+      "detail_date": "2024-01-24",
+      "detail_balance": 72777.01840677821
+    },
+    {
+      "detail_date": "2024-01-25",
+      "detail_balance": 74388.67898002267
+    },
+    {
+      "detail_date": "2024-01-26",
+      "detail_balance": 65894.19835172239
+    },
+    {
+      "detail_date": "2024-01-27",
+      "detail_balance": 67447.26186803849
+    },
+    {
+      "detail_date": "2024-01-28",
+      "detail_balance": 69409.88349257737
+    },
+    {
+      "detail_date": "2024-01-29",
+      "detail_balance": 71075.63478687109
+    },
+    {
+      "detail_date": "2024-01-30",
+      "detail_balance": 62572.445276755316
+    },
+    {
+      "detail_date": "2024-01-31",
+      "detail_balance": 60258.41697071445
+    },
+    {
+      "detail_date": "2024-02-01",
+      "detail_balance": 59107.49291649181
+    },
+    {
+      "detail_date": "2024-02-02",
+      "detail_balance": 60416.4077422082
+    },
+    {
+      "detail_date": "2024-02-03",
+      "detail_balance": 59908.814889320645
+    },
+    {
+      "detail_date": "2024-02-04",
+      "detail_balance": 59913.86431074395
+    },
+    {
+      "detail_date": "2024-02-05",
+      "detail_balance": 59127.97412248342
+    },
+    {
+      "detail_date": "2024-02-06",
+      "detail_balance": 60024.033682422465
+    },
+    {
+      "detail_date": "2024-02-07",
+      "detail_balance": 57338.865290214904
+    },
+    {
+      "detail_date": "2024-02-08",
+      "detail_balance": 57298.347563048614
+    },
+    {
+      "detail_date": "2024-02-09",
+      "detail_balance": 58134.411904811546
+    },
+    {
+      "detail_date": "2024-02-10",
+      "detail_balance": 58284.13488572151
+    },
+    {
+      "detail_date": "2024-02-11",
+      "detail_balance": 57821.128839674246
+    },
+    {
+      "detail_date": "2024-02-12",
+      "detail_balance": 58562.97038633111
+    },
+    {
+      "detail_date": "2024-02-13",
+      "detail_balance": 59326.548337716464
+    },
+    {
+      "detail_date": "2024-02-14",
+      "detail_balance": 59950.09968873676
+    },
+    {
+      "detail_date": "2024-02-15",
+      "detail_balance": 60768.65588840753
+    }
+  ],
+  "to_network": 59144
+}]

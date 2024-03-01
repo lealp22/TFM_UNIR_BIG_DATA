@@ -1,0 +1,238 @@
+[{
+  "_id": {
+    "$oid": "65af0b3347ed1cb0de58daa6"
+  },
+  "methodId": "0x439370b1",
+  "functionName": "depositEth()"
+},
+{
+  "_id": {
+    "$oid": "65af0c3647ed1cb0de58dcbf"
+  },
+  "methodId": "0xb75436bb",
+  "functionName": "sendL2Message(bytes messageData)"
+},
+{
+  "_id": {
+    "$oid": "65b05c2247ed1cb0de58de52"
+  },
+  "methodId": "0x0f4d14e9",
+  "functionName": "depositEth(uint256 _requestId)"
+},
+{
+  "_id": {
+    "$oid": "65b0615a47ed1cb0de58e662"
+  },
+  "methodId": "0x679b6ded",
+  "functionName": "createRetryableTicket(address destAddr, uint256 l2CallValue, uint256 maxSubmissionCost, address excessFeeRefundAddress, address callValueRefundAddress, uint256 maxGas, uint256 gasPriceBid, bytes data)"
+},
+{
+  "_id": {
+    "$oid": "65b0616747ed1cb0de58ee33"
+  },
+  "methodId": "0x",
+  "functionName": ""
+},
+{
+  "_id": {
+    "$oid": "65b2ee0b47ed1cb0de59a5ca"
+  },
+  "methodId": "0x8a631aa6",
+  "functionName": "sendContractTransaction(uint256 maxGas, uint256 gasPriceBid, address destAddr, uint256 amount, bytes data)"
+},
+{
+  "_id": {
+    "$oid": "65b2ee1247ed1cb0de59ad9b"
+  },
+  "methodId": "0x5e916758",
+  "functionName": "sendL1FundedContractTransaction(uint256 maxGas, uint256 gasPriceBid, address destAddr, bytes data)"
+},
+{
+  "_id": {
+    "$oid": "65b2eee347ed1cb0de59f7d4"
+  },
+  "methodId": "0x1b871c8d",
+  "functionName": "createRetryableTicketNoRefundAliasRewrite(address destAddr, uint256 l2CallValue, uint256 maxSubmissionCost, address excessFeeRefundAddress, address callValueRefundAddress, uint256 maxGas, uint256 gasPriceBid, bytes data)"
+},
+{
+  "_id": {
+    "$oid": "65b2f28d47ed1cb0de5a250e"
+  },
+  "methodId": "0x6e6e8a6a",
+  "functionName": "unsafeCreateRetryableTicket(address to, uint256 l2CallValue, uint256 maxSubmissionCost, address excessFeeRefundAddress, address callValueRefundAddress, uint256 gasLimit, uint256 maxFeePerGas, bytes data)"
+},
+{
+  "_id": {
+    "$oid": "65b2f40347ed1cb0de5a4c1f"
+  },
+  "methodId": "0x70665f14",
+  "functionName": "sendWithdrawEthToFork(uint256 gasLimit,uint256 maxFeePerGas,uint256 nonce,uint256 value,address withdrawTo)"
+},
+{
+  "_id": {
+    "$oid": "65b6bafd47ed1cb0de5b9d58"
+  },
+  "methodId": "0xb1a1a882",
+  "functionName": "depositETH(uint32 _l2Gas, bytes _data)"
+},
+{
+  "_id": {
+    "$oid": "65b6bafd47ed1cb0de5b9d59"
+  },
+  "methodId": "0x58a997f6",
+  "functionName": "depositERC20(address _l1Token, address _l2Token, uint256 _amount, uint32 _l2Gas, bytes _data)"
+},
+{
+  "_id": {
+    "$oid": "65b6bafd47ed1cb0de5b9d5a"
+  },
+  "methodId": "0xe11013dd",
+  "functionName": "bridgeETHTo(address _to, uint32 _minGasLimit, bytes _extraData)"
+},
+{
+  "_id": {
+    "$oid": "65b6bafd47ed1cb0de5b9d5b"
+  },
+  "methodId": "0x9a2ac6d5",
+  "functionName": "depositETHTo(address _to, uint32 _l2Gas, bytes _data)"
+},
+{
+  "_id": {
+    "$oid": "65b6bafd47ed1cb0de5b9d5c"
+  },
+  "methodId": "0x838b2520",
+  "functionName": "depositERC20To(address _l1Token, address _l2Token, address _to, uint256 _amount, uint32 _l2Gas, bytes _data)"
+},
+{
+  "_id": {
+    "$oid": "65b6bb0147ed1cb0de5ba145"
+  },
+  "methodId": "0xa9f9e675",
+  "functionName": "finalizeERC20Withdrawal(address _l1Token, address _l2Token, address _from, address _to, uint256 _amount, bytes _data)"
+},
+{
+  "_id": {
+    "$oid": "65b6bb2747ed1cb0de5bc46c"
+  },
+  "methodId": "0x00",
+  "functionName": ""
+},
+{
+  "_id": {
+    "$oid": "65b6bb4347ed1cb0de5bdbdd"
+  },
+  "methodId": "0x8b4c40b0",
+  "functionName": "donateETH()"
+},
+{
+  "_id": {
+    "$oid": "65cd65893fde22b9777463ea"
+  },
+  "methodId": "0x87087623",
+  "functionName": "bridgeERC20(address _localToken, address _remoteToken, uint256 _amount, uint32 _minGasLimit, bytes _extraData)"
+},
+{
+  "_id": {
+    "$oid": "65cd678d3fde22b97775428b"
+  },
+  "methodId": "0x5075788b",
+  "functionName": "sendUnsignedTransaction(uint256 maxGas, uint256 gasPriceBid, uint256 nonce, address destAddr, uint256 amount, bytes data)"
+},
+{
+  "_id": {
+    "$oid": "65cd6aa23fde22b97775cf29"
+  },
+  "methodId": "0x540abf73",
+  "functionName": "bridgeERC20To(address _localToken, address _remoteToken, address _to, uint256 _amount, uint32 _minGasLimit, bytes _extraData)"
+},
+{
+  "_id": {
+    "$oid": "65cd6aa23fde22b97775cf2a"
+  },
+  "methodId": "0xd351f12f",
+  "functionName": ""
+},
+{
+  "_id": {
+    "$oid": "65cd6aa23fde22b97775cf2b"
+  },
+  "methodId": "0xe9e05c42",
+  "functionName": "depositTransaction(address _to, uint256 _value, uint64 _gasLimit, bool _isCreation, bytes _data)"
+},
+{
+  "_id": {
+    "$oid": "65cd6ae93fde22b9777620f1"
+  },
+  "methodId": "0x09fc8843",
+  "functionName": "bridgeETH(uint32 _minGasLimit, bytes _extraData)"
+},
+{
+  "_id": {
+    "$oid": "65cd6ae93fde22b9777620f2"
+  },
+  "methodId": "0x13af4035",
+  "functionName": "setOwner(address _owner)"
+},
+{
+  "_id": {
+    "$oid": "65cd6ae93fde22b9777620f3"
+  },
+  "methodId": "0x60806040",
+  "functionName": "atInversebrah(int248 a, uint48[] b, uint32 c, bytes20[] d, bytes30[] e)"
+},
+{
+  "_id": {
+    "$oid": "65cea9e75cd56b59a64b614e"
+  },
+  "methodId": "0x6c5d4ad0",
+  "functionName": "setCode(bytes _code)"
+},
+{
+  "_id": {
+    "$oid": "65cf41da54c2920662623d12"
+  },
+  "methodId": "0x9f3ce55a",
+  "functionName": "sendMessage(address _receiver, uint256 _dstChainId, bytes _message)"
+},
+{
+  "_id": {
+    "$oid": "65cf41da54c2920662623d13"
+  },
+  "methodId": "0x7a776315",
+  "functionName": "submitData(tuple _submissionData)"
+},
+{
+  "_id": {
+    "$oid": "65cf41da54c2920662623d14"
+  },
+  "methodId": "0x6463fb2a",
+  "functionName": "claimMessageWithProof(tuple _params)"
+},
+{
+  "_id": {
+    "$oid": "65cf41da54c2920662623d15"
+  },
+  "methodId": "0xd630280f",
+  "functionName": "finalizeCompressedBlocksWithProof(bytes _aggregatedProof,uint256 _proofType,tuple _finalizationData)"
+},
+{
+  "_id": {
+    "$oid": "65cf41da54c2920662623d16"
+  },
+  "methodId": "0x491e0936",
+  "functionName": "claimMessage(address _from,address _to,uint256 _fee,uint256 _value,address _feeRecipient,bytes _calldata,uint256 _nonce)"
+},
+{
+  "_id": {
+    "$oid": "65cf421654c29206626240ff"
+  },
+  "methodId": "0x4165d6dd",
+  "functionName": "finalizeBlocks(tuple[] _blocksData,bytes _proof,uint256 _proofType,bytes32 _parentStateRootHash)"
+},
+{
+  "_id": {
+    "$oid": "65cf914cdb7b693bc9fcfe76"
+  },
+  "methodId": "0x7f61ad2c",
+  "functionName": ""
+}]

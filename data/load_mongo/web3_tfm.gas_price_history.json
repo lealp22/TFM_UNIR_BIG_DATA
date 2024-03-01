@@ -1,0 +1,3320 @@
+[{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27c8"
+  },
+  "median_gas_price": 19.576815011,
+  "date": "2024-01-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27c9"
+  },
+  "median_gas_price": 15.960171572,
+  "date": "2023-08-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27ca"
+  },
+  "median_gas_price": 25.5436803815,
+  "date": "2024-01-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27cb"
+  },
+  "median_gas_price": 18.027645883,
+  "date": "2024-01-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27cc"
+  },
+  "median_gas_price": 11.5682328045,
+  "date": "2023-09-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27cd"
+  },
+  "median_gas_price": 16.851829059000003,
+  "date": "2023-08-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27ce"
+  },
+  "median_gas_price": 13.1176250885,
+  "date": "2023-08-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27cf"
+  },
+  "median_gas_price": 15.016634078500001,
+  "date": "2024-02-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27d0"
+  },
+  "median_gas_price": 32.105918212,
+  "date": "2024-01-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27d1"
+  },
+  "median_gas_price": 40.316215685,
+  "date": "2023-12-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27d2"
+  },
+  "median_gas_price": 38.8618934535,
+  "date": "2023-04-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27d3"
+  },
+  "median_gas_price": 23.0042384,
+  "date": "2023-04-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27d4"
+  },
+  "median_gas_price": 17.824133079,
+  "date": "2023-01-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27d5"
+  },
+  "median_gas_price": 74.881383862,
+  "date": "2023-05-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27d6"
+  },
+  "median_gas_price": 41.051081318,
+  "date": "2023-12-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27d7"
+  },
+  "median_gas_price": 32.550709518,
+  "date": "2023-05-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27d8"
+  },
+  "median_gas_price": 29.779075958,
+  "date": "2023-12-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27d9"
+  },
+  "median_gas_price": 131.24893385500002,
+  "date": "2023-05-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27da"
+  },
+  "median_gas_price": 17.603125425,
+  "date": "2024-01-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27db"
+  },
+  "median_gas_price": 20.8884356845,
+  "date": "2023-12-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27dc"
+  },
+  "median_gas_price": 32.9730473015,
+  "date": "2023-07-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27dd"
+  },
+  "median_gas_price": 26.494079906000003,
+  "date": "2023-03-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27de"
+  },
+  "median_gas_price": 18.919931720999998,
+  "date": "2023-03-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27df"
+  },
+  "median_gas_price": 19.42319891,
+  "date": "2023-03-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27e0"
+  },
+  "median_gas_price": 33.528356163,
+  "date": "2024-02-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27e1"
+  },
+  "median_gas_price": 15.485372152,
+  "date": "2023-01-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27e2"
+  },
+  "median_gas_price": 15.192676679,
+  "date": "2023-01-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27e3"
+  },
+  "median_gas_price": 19.096884055,
+  "date": "2023-03-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27e4"
+  },
+  "median_gas_price": 11.085960563499999,
+  "date": "2023-09-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27e5"
+  },
+  "median_gas_price": 20.2608627545,
+  "date": "2023-04-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27e6"
+  },
+  "median_gas_price": 16.6095677905,
+  "date": "2022-12-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27e7"
+  },
+  "median_gas_price": 23.0280839685,
+  "date": "2024-02-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27e8"
+  },
+  "median_gas_price": 27.739503595,
+  "date": "2023-11-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27e9"
+  },
+  "median_gas_price": 17.223196856999998,
+  "date": "2023-12-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27ea"
+  },
+  "median_gas_price": 11.9907531965,
+  "date": "2023-09-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27eb"
+  },
+  "median_gas_price": 22.316809413,
+  "date": "2023-06-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27ec"
+  },
+  "median_gas_price": 17.441317065,
+  "date": "2024-01-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27ed"
+  },
+  "median_gas_price": 16.254366227,
+  "date": "2023-03-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27ee"
+  },
+  "median_gas_price": 15.623914449,
+  "date": "2023-08-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27ef"
+  },
+  "median_gas_price": 16.081087662,
+  "date": "2023-07-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27f0"
+  },
+  "median_gas_price": 27.6532214505,
+  "date": "2023-11-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27f1"
+  },
+  "median_gas_price": 24.8537778,
+  "date": "2023-03-31",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27f2"
+  },
+  "median_gas_price": 28.133589681,
+  "date": "2023-02-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27f3"
+  },
+  "median_gas_price": 16.505631931,
+  "date": "2023-01-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27f4"
+  },
+  "median_gas_price": 12.0509804645,
+  "date": "2024-01-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27f5"
+  },
+  "median_gas_price": 20.257422893,
+  "date": "2024-02-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27f6"
+  },
+  "median_gas_price": 34.327628401,
+  "date": "2023-04-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27f7"
+  },
+  "median_gas_price": 7.566642033,
+  "date": "2023-09-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27f8"
+  },
+  "median_gas_price": 51.4622673135,
+  "date": "2023-07-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27f9"
+  },
+  "median_gas_price": 16.798532457,
+  "date": "2023-01-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27fa"
+  },
+  "median_gas_price": 15.280428671,
+  "date": "2023-11-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27fb"
+  },
+  "median_gas_price": 14.1613535935,
+  "date": "2023-08-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27fc"
+  },
+  "median_gas_price": 16.623086565999998,
+  "date": "2023-01-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27fd"
+  },
+  "median_gas_price": 12.7422714085,
+  "date": "2023-08-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27fe"
+  },
+  "median_gas_price": 8.6603008505,
+  "date": "2023-09-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c27ff"
+  },
+  "median_gas_price": 46.740785235999994,
+  "date": "2023-05-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2800"
+  },
+  "median_gas_price": 19.153116621000002,
+  "date": "2023-02-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2801"
+  },
+  "median_gas_price": 17.583892327,
+  "date": "2023-01-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2802"
+  },
+  "median_gas_price": 15.353872421,
+  "date": "2023-12-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2803"
+  },
+  "median_gas_price": 9.2772652045,
+  "date": "2023-10-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2804"
+  },
+  "median_gas_price": 21.011503415,
+  "date": "2023-03-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2805"
+  },
+  "median_gas_price": 19.9725841195,
+  "date": "2023-06-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2806"
+  },
+  "median_gas_price": 6.875326401500001,
+  "date": "2023-10-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2807"
+  },
+  "median_gas_price": 19.571004922500002,
+  "date": "2023-11-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2808"
+  },
+  "median_gas_price": 19.846178663,
+  "date": "2023-08-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2809"
+  },
+  "median_gas_price": 32.793211746,
+  "date": "2023-05-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c280a"
+  },
+  "median_gas_price": 27.151259752999998,
+  "date": "2023-02-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c280b"
+  },
+  "median_gas_price": 30.235957577,
+  "date": "2023-04-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c280c"
+  },
+  "median_gas_price": 18.72282602,
+  "date": "2023-08-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c280d"
+  },
+  "median_gas_price": 22.9254675045,
+  "date": "2023-02-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c280e"
+  },
+  "median_gas_price": 21.852735045499998,
+  "date": "2024-02-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c280f"
+  },
+  "median_gas_price": 8.813526414,
+  "date": "2023-10-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2810"
+  },
+  "median_gas_price": 21.190382043,
+  "date": "2023-06-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2811"
+  },
+  "median_gas_price": 20.4656145705,
+  "date": "2023-06-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2812"
+  },
+  "median_gas_price": 13.8651085635,
+  "date": "2024-01-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2813"
+  },
+  "median_gas_price": 21.5781768105,
+  "date": "2023-03-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2814"
+  },
+  "median_gas_price": 8.13589113,
+  "date": "2023-09-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2815"
+  },
+  "median_gas_price": 21.569514367,
+  "date": "2023-08-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2816"
+  },
+  "median_gas_price": 25.606460769,
+  "date": "2023-03-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2817"
+  },
+  "median_gas_price": 6.00555583,
+  "date": "2023-10-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2818"
+  },
+  "median_gas_price": 29.0478871965,
+  "date": "2024-02-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2819"
+  },
+  "median_gas_price": 29.331364191,
+  "date": "2023-11-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c281a"
+  },
+  "median_gas_price": 12.3695109905,
+  "date": "2023-08-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c281b"
+  },
+  "median_gas_price": 10.156668554,
+  "date": "2023-09-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c281c"
+  },
+  "median_gas_price": 20.5325677135,
+  "date": "2023-08-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c281d"
+  },
+  "median_gas_price": 15.626070228,
+  "date": "2023-03-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c281e"
+  },
+  "median_gas_price": 24.1398192855,
+  "date": "2023-05-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c281f"
+  },
+  "median_gas_price": 36.800109679,
+  "date": "2023-04-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2820"
+  },
+  "median_gas_price": 32.804809018,
+  "date": "2023-04-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2821"
+  },
+  "median_gas_price": 20.676277011499998,
+  "date": "2024-01-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2822"
+  },
+  "median_gas_price": 19.984322106,
+  "date": "2023-03-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2823"
+  },
+  "median_gas_price": 42.219705638,
+  "date": "2023-12-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2824"
+  },
+  "median_gas_price": 12.745162217,
+  "date": "2023-06-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2825"
+  },
+  "median_gas_price": 28.886701389,
+  "date": "2024-01-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2826"
+  },
+  "median_gas_price": 11.098754388,
+  "date": "2024-01-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2827"
+  },
+  "median_gas_price": 16.539769847,
+  "date": "2023-01-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2828"
+  },
+  "median_gas_price": 14.8787420255,
+  "date": "2023-07-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2829"
+  },
+  "median_gas_price": 54.733699732,
+  "date": "2024-02-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c282a"
+  },
+  "median_gas_price": 6.461026264,
+  "date": "2023-10-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c282b"
+  },
+  "median_gas_price": 14.8854187385,
+  "date": "2023-07-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c282c"
+  },
+  "median_gas_price": 16.265263550500002,
+  "date": "2023-10-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c282d"
+  },
+  "median_gas_price": 32.3398371945,
+  "date": "2023-05-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c282e"
+  },
+  "median_gas_price": 18.72702237,
+  "date": "2023-10-31",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c282f"
+  },
+  "median_gas_price": 39.035301503499994,
+  "date": "2023-05-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2830"
+  },
+  "median_gas_price": 23.5993296465,
+  "date": "2023-11-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2831"
+  },
+  "median_gas_price": 28.527931743000003,
+  "date": "2023-05-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2832"
+  },
+  "median_gas_price": 27.999147608,
+  "date": "2024-01-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2833"
+  },
+  "median_gas_price": 30.8487547175,
+  "date": "2023-12-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2834"
+  },
+  "median_gas_price": 6.8559786195,
+  "date": "2023-10-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2835"
+  },
+  "median_gas_price": 17.173312308,
+  "date": "2023-11-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2836"
+  },
+  "median_gas_price": 48.676440464,
+  "date": "2023-12-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2837"
+  },
+  "median_gas_price": 33.416024318,
+  "date": "2023-05-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2838"
+  },
+  "median_gas_price": 19.9412715115,
+  "date": "2023-04-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2839"
+  },
+  "median_gas_price": 16.468884307,
+  "date": "2022-12-31",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c283a"
+  },
+  "median_gas_price": 20.6320745625,
+  "date": "2024-02-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c283b"
+  },
+  "median_gas_price": 16.022261772,
+  "date": "2023-12-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c283c"
+  },
+  "median_gas_price": 5.811540367,
+  "date": "2023-10-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c283d"
+  },
+  "median_gas_price": 21.0998093955,
+  "date": "2023-02-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c283e"
+  },
+  "median_gas_price": 16.244474976,
+  "date": "2023-08-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c283f"
+  },
+  "median_gas_price": 10.61490899,
+  "date": "2023-09-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2840"
+  },
+  "median_gas_price": 16.561908873,
+  "date": "2023-07-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2841"
+  },
+  "median_gas_price": 18.334213415,
+  "date": "2023-07-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2842"
+  },
+  "median_gas_price": 19.110494689,
+  "date": "2023-08-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2843"
+  },
+  "median_gas_price": 25.807947282,
+  "date": "2023-02-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2844"
+  },
+  "median_gas_price": 26.704733406,
+  "date": "2024-01-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2845"
+  },
+  "median_gas_price": 19.044466610999997,
+  "date": "2023-07-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2846"
+  },
+  "median_gas_price": 16.73463882,
+  "date": "2023-01-31",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2847"
+  },
+  "median_gas_price": 24.711583794,
+  "date": "2023-06-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2848"
+  },
+  "median_gas_price": 6.852255491,
+  "date": "2023-10-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2849"
+  },
+  "median_gas_price": 19.875868701999998,
+  "date": "2023-06-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c284a"
+  },
+  "median_gas_price": 37.912632488,
+  "date": "2023-04-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c284b"
+  },
+  "median_gas_price": 24.007254383,
+  "date": "2023-03-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c284c"
+  },
+  "median_gas_price": 16.038383867,
+  "date": "2023-07-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c284d"
+  },
+  "median_gas_price": 7.7620002935,
+  "date": "2023-09-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c284e"
+  },
+  "median_gas_price": 21.2344727365,
+  "date": "2023-11-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c284f"
+  },
+  "median_gas_price": 22.318120851499998,
+  "date": "2023-03-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2850"
+  },
+  "median_gas_price": 22.8535904815,
+  "date": "2023-03-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2851"
+  },
+  "median_gas_price": 15.046481939,
+  "date": "2023-01-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2852"
+  },
+  "median_gas_price": 11.061447550499999,
+  "date": "2023-09-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2853"
+  },
+  "median_gas_price": 11.8033323145,
+  "date": "2023-08-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2854"
+  },
+  "median_gas_price": 15.3262943625,
+  "date": "2023-01-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2855"
+  },
+  "median_gas_price": 28.642688367,
+  "date": "2023-11-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2856"
+  },
+  "median_gas_price": 17.814109619,
+  "date": "2024-02-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2857"
+  },
+  "median_gas_price": 32.512486159,
+  "date": "2024-01-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2858"
+  },
+  "median_gas_price": 22.463139734000002,
+  "date": "2023-11-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2859"
+  },
+  "median_gas_price": 27.76878835,
+  "date": "2023-04-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c285a"
+  },
+  "median_gas_price": 23.2758302085,
+  "date": "2023-12-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c285b"
+  },
+  "median_gas_price": 9.885071897,
+  "date": "2023-09-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c285c"
+  },
+  "median_gas_price": 43.41408558,
+  "date": "2023-12-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c285d"
+  },
+  "median_gas_price": 8.443592024,
+  "date": "2023-10-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c285e"
+  },
+  "median_gas_price": 29.863697069,
+  "date": "2023-11-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c285f"
+  },
+  "median_gas_price": 5.7229353245,
+  "date": "2023-10-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2860"
+  },
+  "median_gas_price": 39.076644857,
+  "date": "2023-12-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2861"
+  },
+  "median_gas_price": 18.31594653,
+  "date": "2023-08-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2862"
+  },
+  "median_gas_price": 63.5307385805,
+  "date": "2023-05-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2863"
+  },
+  "median_gas_price": 34.963886454999994,
+  "date": "2023-04-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2864"
+  },
+  "median_gas_price": 14.25270795,
+  "date": "2023-10-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2865"
+  },
+  "median_gas_price": 29.9791055105,
+  "date": "2023-04-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2866"
+  },
+  "median_gas_price": 16.800042005999998,
+  "date": "2023-01-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2867"
+  },
+  "median_gas_price": 19.338976467,
+  "date": "2023-08-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2868"
+  },
+  "median_gas_price": 11.522856501,
+  "date": "2023-09-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2869"
+  },
+  "median_gas_price": 15.618479552,
+  "date": "2023-08-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c286a"
+  },
+  "median_gas_price": 16.170161541,
+  "date": "2023-09-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c286b"
+  },
+  "median_gas_price": 29.691289661,
+  "date": "2023-11-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c286c"
+  },
+  "median_gas_price": 41.346500338,
+  "date": "2023-12-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c286d"
+  },
+  "median_gas_price": 29.425168082,
+  "date": "2023-11-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c286e"
+  },
+  "median_gas_price": 20.2055135915,
+  "date": "2023-04-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c286f"
+  },
+  "median_gas_price": 25.716914610499998,
+  "date": "2023-05-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2870"
+  },
+  "median_gas_price": 36.5195774035,
+  "date": "2023-04-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2871"
+  },
+  "median_gas_price": 22.151357385,
+  "date": "2023-02-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2872"
+  },
+  "median_gas_price": 24.022686901,
+  "date": "2023-03-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2873"
+  },
+  "median_gas_price": 20.2283934945,
+  "date": "2024-01-31",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2874"
+  },
+  "median_gas_price": 24.2314537185,
+  "date": "2023-04-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2875"
+  },
+  "median_gas_price": 18.590430965,
+  "date": "2024-01-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2876"
+  },
+  "median_gas_price": 6.2345175305,
+  "date": "2023-10-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2877"
+  },
+  "median_gas_price": 12.1286635435,
+  "date": "2024-01-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2878"
+  },
+  "median_gas_price": 19.578398977,
+  "date": "2023-10-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2879"
+  },
+  "median_gas_price": 15.0801451625,
+  "date": "2023-06-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c287a"
+  },
+  "median_gas_price": 15.820277921,
+  "date": "2023-03-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c287b"
+  },
+  "median_gas_price": 23.054208355,
+  "date": "2023-03-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c287c"
+  },
+  "median_gas_price": 48.6182114005,
+  "date": "2023-12-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c287d"
+  },
+  "median_gas_price": 17.963539098,
+  "date": "2023-01-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c287e"
+  },
+  "median_gas_price": 41.699668845,
+  "date": "2023-12-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c287f"
+  },
+  "median_gas_price": 34.4912721845,
+  "date": "2023-06-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2880"
+  },
+  "median_gas_price": 43.8024551735,
+  "date": "2023-05-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2881"
+  },
+  "median_gas_price": 21.154953141500002,
+  "date": "2023-04-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2882"
+  },
+  "median_gas_price": 20.261512273500003,
+  "date": "2023-11-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2883"
+  },
+  "median_gas_price": 20.4973715055,
+  "date": "2023-04-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2884"
+  },
+  "median_gas_price": 27.447289804999997,
+  "date": "2023-03-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2885"
+  },
+  "median_gas_price": 28.113467208000003,
+  "date": "2023-02-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2886"
+  },
+  "median_gas_price": 17.276541263,
+  "date": "2023-02-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2887"
+  },
+  "median_gas_price": 17.198319636,
+  "date": "2023-01-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2888"
+  },
+  "median_gas_price": 45.72431241,
+  "date": "2023-12-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2889"
+  },
+  "median_gas_price": 38.520483293,
+  "date": "2023-12-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c288a"
+  },
+  "median_gas_price": 13.688464917000001,
+  "date": "2023-07-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c288b"
+  },
+  "median_gas_price": 45.6005631,
+  "date": "2023-12-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c288c"
+  },
+  "median_gas_price": 7.089580048,
+  "date": "2023-10-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c288d"
+  },
+  "median_gas_price": 25.6279040045,
+  "date": "2023-11-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c288e"
+  },
+  "median_gas_price": 15.7059480455,
+  "date": "2023-03-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c288f"
+  },
+  "median_gas_price": 19.706263337000003,
+  "date": "2023-10-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2890"
+  },
+  "median_gas_price": 16.613197031,
+  "date": "2023-08-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2891"
+  },
+  "median_gas_price": 15.4781826635,
+  "date": "2023-08-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2892"
+  },
+  "median_gas_price": 19.978168826,
+  "date": "2023-07-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2893"
+  },
+  "median_gas_price": 32.989247609,
+  "date": "2024-02-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2894"
+  },
+  "median_gas_price": 25.1085814895,
+  "date": "2024-01-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2895"
+  },
+  "median_gas_price": 27.2792421745,
+  "date": "2023-12-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2896"
+  },
+  "median_gas_price": 9.827171828,
+  "date": "2023-09-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2897"
+  },
+  "median_gas_price": 12.0802895885,
+  "date": "2024-01-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2898"
+  },
+  "median_gas_price": 27.159307228499998,
+  "date": "2023-11-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2899"
+  },
+  "median_gas_price": 23.7715341145,
+  "date": "2023-11-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c289a"
+  },
+  "median_gas_price": 8,
+  "date": "2023-10-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c289b"
+  },
+  "median_gas_price": 21.4878003425,
+  "date": "2024-01-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c289c"
+  },
+  "median_gas_price": 24.6192485465,
+  "date": "2023-03-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c289d"
+  },
+  "median_gas_price": 6.5462803955,
+  "date": "2023-10-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c289e"
+  },
+  "median_gas_price": 26.5180280945,
+  "date": "2024-01-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c289f"
+  },
+  "median_gas_price": 32.104613254,
+  "date": "2023-12-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28a0"
+  },
+  "median_gas_price": 18.118592783,
+  "date": "2023-03-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28a1"
+  },
+  "median_gas_price": 7.3150031445,
+  "date": "2023-09-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28a2"
+  },
+  "median_gas_price": 16.040909933,
+  "date": "2023-02-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28a3"
+  },
+  "median_gas_price": 28.494615612,
+  "date": "2023-11-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28a4"
+  },
+  "median_gas_price": 15.8961465255,
+  "date": "2023-07-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28a5"
+  },
+  "median_gas_price": 16.224996130500003,
+  "date": "2023-01-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28a6"
+  },
+  "median_gas_price": 15.7176377305,
+  "date": "2023-01-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28a7"
+  },
+  "median_gas_price": 50.734726003,
+  "date": "2023-03-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28a8"
+  },
+  "median_gas_price": 24.99554592,
+  "date": "2023-03-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28a9"
+  },
+  "median_gas_price": 13.5472589155,
+  "date": "2023-06-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28aa"
+  },
+  "median_gas_price": 15.7489793805,
+  "date": "2022-12-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ab"
+  },
+  "median_gas_price": 12.1965123985,
+  "date": "2024-01-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ac"
+  },
+  "median_gas_price": 16.859914344499998,
+  "date": "2023-07-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ad"
+  },
+  "median_gas_price": 19.947888984,
+  "date": "2024-01-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ae"
+  },
+  "median_gas_price": 36.1648740395,
+  "date": "2023-12-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28af"
+  },
+  "median_gas_price": 19.068579224,
+  "date": "2023-08-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28b0"
+  },
+  "median_gas_price": 19.0899406345,
+  "date": "2023-07-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28b1"
+  },
+  "median_gas_price": 14.7379898095,
+  "date": "2023-06-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28b2"
+  },
+  "median_gas_price": 8.857729462,
+  "date": "2023-09-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28b3"
+  },
+  "median_gas_price": 14.326355597,
+  "date": "2023-11-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28b4"
+  },
+  "median_gas_price": 20.766065076,
+  "date": "2024-01-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28b5"
+  },
+  "median_gas_price": 9.089349442500001,
+  "date": "2023-09-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28b6"
+  },
+  "median_gas_price": 29.93195815,
+  "date": "2024-02-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28b7"
+  },
+  "median_gas_price": 11.656207500499999,
+  "date": "2023-10-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28b8"
+  },
+  "median_gas_price": 13.804829394999999,
+  "date": "2023-07-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28b9"
+  },
+  "median_gas_price": 30,
+  "date": "2023-11-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ba"
+  },
+  "median_gas_price": 17.115355112,
+  "date": "2023-11-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28bb"
+  },
+  "median_gas_price": 8.027706731,
+  "date": "2023-09-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28bc"
+  },
+  "median_gas_price": 15.497890554,
+  "date": "2023-06-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28bd"
+  },
+  "median_gas_price": 15.2538928075,
+  "date": "2023-06-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28be"
+  },
+  "median_gas_price": 7.153359158000001,
+  "date": "2023-09-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28bf"
+  },
+  "median_gas_price": 33.367610918500006,
+  "date": "2023-05-31",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28c0"
+  },
+  "median_gas_price": 149.021094455,
+  "date": "2023-05-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28c1"
+  },
+  "median_gas_price": 71.9865843505,
+  "date": "2023-05-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28c2"
+  },
+  "median_gas_price": 75.6543481185,
+  "date": "2023-05-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28c3"
+  },
+  "median_gas_price": 24.485086385,
+  "date": "2023-03-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28c4"
+  },
+  "median_gas_price": 19.024246755,
+  "date": "2023-02-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28c5"
+  },
+  "median_gas_price": 34.481986698,
+  "date": "2023-02-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28c6"
+  },
+  "median_gas_price": 7.503806561,
+  "date": "2023-10-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28c7"
+  },
+  "median_gas_price": 68.8727614555,
+  "date": "2023-05-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28c8"
+  },
+  "median_gas_price": 25.074427923000002,
+  "date": "2024-02-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28c9"
+  },
+  "median_gas_price": 6.419265229,
+  "date": "2023-10-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ca"
+  },
+  "median_gas_price": 13.187369902,
+  "date": "2023-06-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28cb"
+  },
+  "median_gas_price": 16.082432065,
+  "date": "2023-02-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28cc"
+  },
+  "median_gas_price": 28.286899380999998,
+  "date": "2023-12-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28cd"
+  },
+  "median_gas_price": 14.6038957535,
+  "date": "2024-02-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ce"
+  },
+  "median_gas_price": 12.491345047500001,
+  "date": "2023-10-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28cf"
+  },
+  "median_gas_price": 5.8147060285,
+  "date": "2023-10-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28d0"
+  },
+  "median_gas_price": 22.6170679115,
+  "date": "2023-06-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28d1"
+  },
+  "median_gas_price": 20.619498725,
+  "date": "2023-02-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28d2"
+  },
+  "median_gas_price": 28.4675906895,
+  "date": "2023-11-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28d3"
+  },
+  "median_gas_price": 15,
+  "date": "2023-08-31",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28d4"
+  },
+  "median_gas_price": 18.080911082500002,
+  "date": "2023-07-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28d5"
+  },
+  "median_gas_price": 10.167936824,
+  "date": "2023-09-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28d6"
+  },
+  "median_gas_price": 25.567193076000002,
+  "date": "2023-02-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28d7"
+  },
+  "median_gas_price": 21.033499587999998,
+  "date": "2023-06-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28d8"
+  },
+  "median_gas_price": 63,
+  "date": "2023-05-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28d9"
+  },
+  "median_gas_price": 15.123761461,
+  "date": "2023-01-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28da"
+  },
+  "median_gas_price": 28.365013777,
+  "date": "2023-11-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28db"
+  },
+  "median_gas_price": 21.8605952435,
+  "date": "2023-07-25",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28dc"
+  },
+  "median_gas_price": 36.396050574,
+  "date": "2023-05-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28dd"
+  },
+  "median_gas_price": 15.9880329395,
+  "date": "2023-02-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28de"
+  },
+  "median_gas_price": 18.851284636,
+  "date": "2023-07-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28df"
+  },
+  "median_gas_price": 43.9786746165,
+  "date": "2023-05-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28e0"
+  },
+  "median_gas_price": 19.000793361,
+  "date": "2023-06-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28e1"
+  },
+  "median_gas_price": 20.491946155,
+  "date": "2023-03-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28e2"
+  },
+  "median_gas_price": 47.5408595025,
+  "date": "2023-05-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28e3"
+  },
+  "median_gas_price": 16.3975056015,
+  "date": "2023-06-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28e4"
+  },
+  "median_gas_price": 10.982442523,
+  "date": "2023-09-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28e5"
+  },
+  "median_gas_price": 59.0750904765,
+  "date": "2023-04-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28e6"
+  },
+  "median_gas_price": 13.382473582,
+  "date": "2023-12-31",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28e7"
+  },
+  "median_gas_price": 24.303597316999998,
+  "date": "2023-04-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28e8"
+  },
+  "median_gas_price": 16.37284716,
+  "date": "2024-01-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28e9"
+  },
+  "median_gas_price": 17.0525129725,
+  "date": "2023-07-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ea"
+  },
+  "median_gas_price": 15.9733287605,
+  "date": "2023-01-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28eb"
+  },
+  "median_gas_price": 12.393493574,
+  "date": "2023-09-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ec"
+  },
+  "median_gas_price": 42.697598966499996,
+  "date": "2023-05-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ed"
+  },
+  "median_gas_price": 13.0084395495,
+  "date": "2023-08-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ee"
+  },
+  "median_gas_price": 21.906408411500003,
+  "date": "2023-04-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ef"
+  },
+  "median_gas_price": 21.6613684595,
+  "date": "2023-07-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28f0"
+  },
+  "median_gas_price": 10.9232493585,
+  "date": "2024-01-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28f1"
+  },
+  "median_gas_price": 18.034983341,
+  "date": "2023-07-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28f2"
+  },
+  "median_gas_price": 17.0490955705,
+  "date": "2023-01-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28f3"
+  },
+  "median_gas_price": 38.914668338,
+  "date": "2023-12-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28f4"
+  },
+  "median_gas_price": 29.077097486,
+  "date": "2023-12-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28f5"
+  },
+  "median_gas_price": 21.6147349845,
+  "date": "2024-02-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28f6"
+  },
+  "median_gas_price": 16.402836843000003,
+  "date": "2023-07-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28f7"
+  },
+  "median_gas_price": 24.617447108,
+  "date": "2023-02-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28f8"
+  },
+  "median_gas_price": 20.1682288775,
+  "date": "2023-02-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28f9"
+  },
+  "median_gas_price": 16.7332370975,
+  "date": "2023-01-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28fa"
+  },
+  "median_gas_price": 14.403071122,
+  "date": "2023-01-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28fb"
+  },
+  "median_gas_price": 18.5166922945,
+  "date": "2023-01-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28fc"
+  },
+  "median_gas_price": 26.423246496,
+  "date": "2023-11-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28fd"
+  },
+  "median_gas_price": 13.77038639,
+  "date": "2023-08-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28fe"
+  },
+  "median_gas_price": 40.997739171,
+  "date": "2023-05-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c28ff"
+  },
+  "median_gas_price": 14.859410762,
+  "date": "2023-07-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2900"
+  },
+  "median_gas_price": 23.000920849499998,
+  "date": "2024-02-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2901"
+  },
+  "median_gas_price": 28.98557574,
+  "date": "2023-11-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2902"
+  },
+  "median_gas_price": 18.398791965,
+  "date": "2023-07-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2903"
+  },
+  "median_gas_price": 18.816388783500003,
+  "date": "2023-06-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2904"
+  },
+  "median_gas_price": 27.302445608,
+  "date": "2023-11-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2905"
+  },
+  "median_gas_price": 37.425511741,
+  "date": "2023-12-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2906"
+  },
+  "median_gas_price": 94.9128136005,
+  "date": "2023-05-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2907"
+  },
+  "median_gas_price": 18.629173375,
+  "date": "2023-02-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2908"
+  },
+  "median_gas_price": 15.472013315,
+  "date": "2023-08-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2909"
+  },
+  "median_gas_price": 16.6812341655,
+  "date": "2023-01-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c290a"
+  },
+  "median_gas_price": 22.737446880500002,
+  "date": "2023-03-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c290b"
+  },
+  "median_gas_price": 15.831535006,
+  "date": "2023-01-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c290c"
+  },
+  "median_gas_price": 5.525492864,
+  "date": "2023-10-15",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c290d"
+  },
+  "median_gas_price": 40.4372554,
+  "date": "2023-05-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c290e"
+  },
+  "median_gas_price": 16.0888381705,
+  "date": "2023-06-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c290f"
+  },
+  "median_gas_price": 49.487823239,
+  "date": "2023-12-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2910"
+  },
+  "median_gas_price": 16.229112591499998,
+  "date": "2023-06-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2911"
+  },
+  "median_gas_price": 18.253693828,
+  "date": "2023-02-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2912"
+  },
+  "median_gas_price": 6.61,
+  "date": "2023-10-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2913"
+  },
+  "median_gas_price": 52.796791842,
+  "date": "2023-05-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2914"
+  },
+  "median_gas_price": 21.898119091,
+  "date": "2023-06-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2915"
+  },
+  "median_gas_price": 9.380406171,
+  "date": "2023-09-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2916"
+  },
+  "median_gas_price": 16.262605782999998,
+  "date": "2023-06-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2917"
+  },
+  "median_gas_price": 29.179472429,
+  "date": "2023-02-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2918"
+  },
+  "median_gas_price": 20.614549054500003,
+  "date": "2024-01-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2919"
+  },
+  "median_gas_price": 13.762750556,
+  "date": "2023-09-01",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c291a"
+  },
+  "median_gas_price": 16.705981722,
+  "date": "2023-01-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c291b"
+  },
+  "median_gas_price": 11.235893846,
+  "date": "2023-09-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c291c"
+  },
+  "median_gas_price": 14.676474665499999,
+  "date": "2024-01-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c291d"
+  },
+  "median_gas_price": 25.788887437,
+  "date": "2023-12-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c291e"
+  },
+  "median_gas_price": 7.37233154,
+  "date": "2023-10-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c291f"
+  },
+  "median_gas_price": 13.909868717,
+  "date": "2023-07-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2920"
+  },
+  "median_gas_price": 29.8045348385,
+  "date": "2023-05-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2921"
+  },
+  "median_gas_price": 38.200166694,
+  "date": "2023-04-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2922"
+  },
+  "median_gas_price": 22.8138537385,
+  "date": "2024-02-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2923"
+  },
+  "median_gas_price": 19.716157131,
+  "date": "2023-07-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2924"
+  },
+  "median_gas_price": 16.933353602,
+  "date": "2023-01-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2925"
+  },
+  "median_gas_price": 16.1989380135,
+  "date": "2023-01-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2926"
+  },
+  "median_gas_price": 21.988957315,
+  "date": "2023-02-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2927"
+  },
+  "median_gas_price": 17.992094347,
+  "date": "2023-02-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2928"
+  },
+  "median_gas_price": 18.097363158500002,
+  "date": "2023-01-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2929"
+  },
+  "median_gas_price": 16.160327373,
+  "date": "2023-03-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c292a"
+  },
+  "median_gas_price": 33.414179859,
+  "date": "2023-07-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c292b"
+  },
+  "median_gas_price": 15.7304946845,
+  "date": "2023-06-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c292c"
+  },
+  "median_gas_price": 18.9349846,
+  "date": "2023-03-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c292d"
+  },
+  "median_gas_price": 16,
+  "date": "2024-01-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c292e"
+  },
+  "median_gas_price": 14.380983673500001,
+  "date": "2023-06-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c292f"
+  },
+  "median_gas_price": 15.363665342000001,
+  "date": "2023-06-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2930"
+  },
+  "median_gas_price": 27.8764122225,
+  "date": "2023-06-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2931"
+  },
+  "median_gas_price": 21.4784744615,
+  "date": "2023-12-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2932"
+  },
+  "median_gas_price": 89.873612607,
+  "date": "2023-05-11",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2933"
+  },
+  "median_gas_price": 39.0315710055,
+  "date": "2023-04-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2934"
+  },
+  "median_gas_price": 15.734374222,
+  "date": "2023-03-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2935"
+  },
+  "median_gas_price": 24.2400011495,
+  "date": "2023-02-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2936"
+  },
+  "median_gas_price": 34.099793006,
+  "date": "2023-02-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2937"
+  },
+  "median_gas_price": 14.499223222000001,
+  "date": "2023-07-31",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2938"
+  },
+  "median_gas_price": 25.836198779,
+  "date": "2023-03-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2939"
+  },
+  "median_gas_price": 14.2044592025,
+  "date": "2023-08-21",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c293a"
+  },
+  "median_gas_price": 18.4313654655,
+  "date": "2023-08-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c293b"
+  },
+  "median_gas_price": 34.275515516,
+  "date": "2023-04-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c293c"
+  },
+  "median_gas_price": 16.673802505,
+  "date": "2023-01-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c293d"
+  },
+  "median_gas_price": 20.454075236500003,
+  "date": "2023-12-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c293e"
+  },
+  "median_gas_price": 27.246947652,
+  "date": "2023-04-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c293f"
+  },
+  "median_gas_price": 16.428676356,
+  "date": "2023-01-06",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2940"
+  },
+  "median_gas_price": 19.348566972500002,
+  "date": "2023-08-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2941"
+  },
+  "median_gas_price": 21.9326074845,
+  "date": "2023-04-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2942"
+  },
+  "median_gas_price": 8.974133667499999,
+  "date": "2023-09-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2943"
+  },
+  "median_gas_price": 22.558737469,
+  "date": "2023-11-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2944"
+  },
+  "median_gas_price": 8.498712882,
+  "date": "2023-09-27",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2945"
+  },
+  "median_gas_price": 18.831146306,
+  "date": "2023-08-10",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2946"
+  },
+  "median_gas_price": 14.836989151000001,
+  "date": "2023-06-18",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2947"
+  },
+  "median_gas_price": 69.7854105255,
+  "date": "2023-05-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2948"
+  },
+  "median_gas_price": 19.1372476935,
+  "date": "2023-04-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2949"
+  },
+  "median_gas_price": 6.945690356,
+  "date": "2023-10-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c294a"
+  },
+  "median_gas_price": 12.072306073499998,
+  "date": "2023-10-29",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c294b"
+  },
+  "median_gas_price": 12.412622684999999,
+  "date": "2023-08-13",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c294c"
+  },
+  "median_gas_price": 7.986965099,
+  "date": "2023-09-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c294d"
+  },
+  "median_gas_price": 31.610146549,
+  "date": "2023-02-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c294e"
+  },
+  "median_gas_price": 17.895610519,
+  "date": "2023-01-17",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c294f"
+  },
+  "median_gas_price": 15.237155062,
+  "date": "2023-07-04",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2950"
+  },
+  "median_gas_price": 19.2110753605,
+  "date": "2023-07-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2951"
+  },
+  "median_gas_price": 24.978816576,
+  "date": "2023-07-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2952"
+  },
+  "median_gas_price": 15,
+  "date": "2023-06-20",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2953"
+  },
+  "median_gas_price": 21.78356182,
+  "date": "2023-04-12",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2954"
+  },
+  "median_gas_price": 16.806288981,
+  "date": "2023-08-23",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2955"
+  },
+  "median_gas_price": 26.6344237245,
+  "date": "2023-03-09",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2956"
+  },
+  "median_gas_price": 12.3270475425,
+  "date": "2023-09-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2957"
+  },
+  "median_gas_price": 25.819896106,
+  "date": "2024-01-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2958"
+  },
+  "median_gas_price": 28.567703736,
+  "date": "2023-11-22",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2959"
+  },
+  "median_gas_price": 36.0075178435,
+  "date": "2023-04-28",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c295a"
+  },
+  "median_gas_price": 19.609799185,
+  "date": "2023-11-02",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c295b"
+  },
+  "median_gas_price": 5.4255066195,
+  "date": "2023-10-14",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c295c"
+  },
+  "median_gas_price": 19.359931392,
+  "date": "2024-01-26",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c295d"
+  },
+  "median_gas_price": 15.9930035825,
+  "date": "2023-06-16",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c295e"
+  },
+  "median_gas_price": 29.554426339,
+  "date": "2023-11-30",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c295f"
+  },
+  "median_gas_price": 64.7677501375,
+  "date": "2023-04-19",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2960"
+  },
+  "median_gas_price": 24.830528473,
+  "date": "2023-02-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2961"
+  },
+  "median_gas_price": 27.055632956,
+  "date": "2023-02-03",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2962"
+  },
+  "median_gas_price": 14.435116927,
+  "date": "2023-08-05",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2963"
+  },
+  "median_gas_price": 39.762598997,
+  "date": "2023-04-24",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2964"
+  },
+  "median_gas_price": 100.7765085475,
+  "date": "2023-05-08",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2965"
+  },
+  "median_gas_price": 6.0410255385,
+  "date": "2023-10-07",
+  "from_network": 1
+},
+{
+  "_id": {
+    "$oid": "65d5f9143533ea76ea0c2966"
+  },
+  "median_gas_price": 16.5697471295,
+  "date": "2023-09-06",
+  "from_network": 1
+}]

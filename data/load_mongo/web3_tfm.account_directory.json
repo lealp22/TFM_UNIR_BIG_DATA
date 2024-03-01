@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e411"
+  },
+  "from_network": 1,
+  "to_network": 42161,
+  "layer": 1,
+  "address": "0x4Dbd4fc535Ac27206064B68FfCf827b0A60BAB3f",
+  "description": "Arbitrum",
+  "full_description": "Arbitrum Official Bridge Contract - Delayed Inbox",
+  "is_transactions": true,
+  "is_balance": false
+},
+{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e412"
+  },
+  "from_network": 1,
+  "to_network": 42161,
+  "layer": 1,
+  "address": "0xa3A7B6F88361F48403514059F1F16C8E78d60EeC",
+  "description": "Arbitrum",
+  "full_description": "Arbitrum One: L1 ERC20 Gateway",
+  "is_transactions": false,
+  "is_balance": false
+},
+{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e413"
+  },
+  "from_network": 1,
+  "to_network": 42161,
+  "layer": 1,
+  "address": "0xcEe284F754E854890e311e3280b767F80797180d",
+  "description": "Arbitrum",
+  "full_description": "Arbitrum One: L1 Arb - Custom Gateway",
+  "is_transactions": false,
+  "is_balance": false
+},
+{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e414"
+  },
+  "from_network": 1,
+  "to_network": 42161,
+  "layer": 1,
+  "address": "0xd92023E9d9911199a6711321D1277285e6d4e2db",
+  "description": "Arbitrum",
+  "full_description": "Arbitrum One: Wrapped Ether Gateway",
+  "is_transactions": false,
+  "is_balance": false
+},
+{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e415"
+  },
+  "from_network": 1,
+  "to_network": 42161,
+  "layer": 1,
+  "address": "0xA10c7CE4b876998858b1a9E12b10092229539400",
+  "description": "Arbitrum",
+  "full_description": "Arbitrum: DAI L1 Escrow",
+  "is_transactions": false,
+  "is_balance": false
+},
+{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e416"
+  },
+  "from_network": 1,
+  "to_network": 42161,
+  "layer": 1,
+  "address": "0x8315177aB297bA92A06054cE80a67Ed4DBd7ed3a",
+  "description": "Arbitrum",
+  "full_description": "Arbitrum: Bridge",
+  "is_transactions": false,
+  "is_balance": true
+},
+{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e417"
+  },
+  "from_network": 1,
+  "to_network": 10,
+  "layer": 1,
+  "address": "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1",
+  "description": "Optimism",
+  "full_description": "Optimism Gateway - L1StandardBridgeProxy",
+  "is_transactions": true,
+  "is_balance": false
+},
+{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e418"
+  },
+  "from_network": 1,
+  "to_network": 10,
+  "layer": 1,
+  "address": "0xbEb5Fc579115071764c7423A4f12eDde41f106Ed",
+  "description": "Optimism",
+  "full_description": "Optimism - OptimismPortal",
+  "is_transactions": false,
+  "is_balance": true
+},
+{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e419"
+  },
+  "from_network": 1,
+  "to_network": 8453,
+  "layer": 1,
+  "address": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+  "description": "Base",
+  "full_description": "Base - L1StandardBridge",
+  "is_transactions": true,
+  "is_balance": false
+},
+{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e41a"
+  },
+  "from_network": 1,
+  "to_network": 8453,
+  "layer": 1,
+  "address": "0x49048044D57e1C92A77f79988d21Fa8fAF74E97e",
+  "description": "Base",
+  "full_description": "Base - OptimismPortal",
+  "is_transactions": false,
+  "is_balance": true
+},
+{
+  "_id": {
+    "$oid": "65d5034e3ebb3c4bb440e41b"
+  },
+  "from_network": 1,
+  "to_network": 59144,
+  "layer": 1,
+  "address": "0xd19d4B5d358258f05D7B411E21A1460D11B0876F",
+  "description": "Linea",
+  "full_description": "Linea - L1 Message Service",
+  "is_transactions": true,
+  "is_balance": true
+}]

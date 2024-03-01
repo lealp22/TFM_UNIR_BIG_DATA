@@ -1,0 +1,960 @@
+[{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9a1"
+  },
+  "id": 1,
+  "id_hex": "0x1",
+  "value": "ethereum",
+  "description": "Ethereum",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9a2"
+  },
+  "id": 42161,
+  "id_hex": "0xa4b1",
+  "value": "arbitrum",
+  "description": "Arbitrum One",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9a3"
+  },
+  "id": 42170,
+  "id_hex": "0xa4ba",
+  "value": "arbitrum_nova",
+  "description": "Arbitrum Nova",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9a4"
+  },
+  "id": 10,
+  "id_hex": "0xa",
+  "value": "optimism",
+  "description": "Optimism Mainnet",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9a5"
+  },
+  "id": 137,
+  "id_hex": "0x89",
+  "value": "polygon",
+  "description": "Polygon Mainnet",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9a6"
+  },
+  "id": 8,
+  "id_hex": "0x8",
+  "value": "ubiq",
+  "description": "ubiq",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9a7"
+  },
+  "id": 19,
+  "id_hex": "0x13",
+  "value": "songbird",
+  "description": "songbird",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9a8"
+  },
+  "id": 20,
+  "id_hex": "0x14",
+  "value": "elastos",
+  "description": "elastos",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9a9"
+  },
+  "id": 24,
+  "id_hex": "0x18",
+  "value": "kardiachain",
+  "description": "kardiachain",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9aa"
+  },
+  "id": 25,
+  "id_hex": "0x19",
+  "value": "cronos",
+  "description": "cronos",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ab"
+  },
+  "id": 30,
+  "id_hex": "0x1e",
+  "value": "rsk",
+  "description": "rsk",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ac"
+  },
+  "id": 40,
+  "id_hex": "0x28",
+  "value": "telos",
+  "description": "telos",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ad"
+  },
+  "id": 50,
+  "id_hex": "0x32",
+  "value": "xdc",
+  "description": "xdc",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ae"
+  },
+  "id": 52,
+  "id_hex": "0x34",
+  "value": "csc",
+  "description": "csc",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9af"
+  },
+  "id": 55,
+  "id_hex": "0x37",
+  "value": "zyx",
+  "description": "zyx",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9b0"
+  },
+  "id": 56,
+  "id_hex": "0x38",
+  "value": "binance",
+  "description": "binance",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9b1"
+  },
+  "id": 57,
+  "id_hex": "0x39",
+  "value": "syscoin",
+  "description": "syscoin",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9b2"
+  },
+  "id": 60,
+  "id_hex": "0x3c",
+  "value": "gochain",
+  "description": "gochain",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9b3"
+  },
+  "id": 61,
+  "id_hex": "0x3d",
+  "value": "ethereumclassic",
+  "description": "ethereumclassic",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9b4"
+  },
+  "id": 66,
+  "id_hex": "0x42",
+  "value": "okexchain",
+  "description": "okexchain",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9b5"
+  },
+  "id": 70,
+  "id_hex": "0x46",
+  "value": "hoo",
+  "description": "hoo",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9b6"
+  },
+  "id": 82,
+  "id_hex": "0x52",
+  "value": "meter",
+  "description": "meter",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9b7"
+  },
+  "id": 87,
+  "id_hex": "0x57",
+  "value": "nova network",
+  "description": "nova network",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9b8"
+  },
+  "id": 88,
+  "id_hex": "0x58",
+  "value": "viction",
+  "description": "viction",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9b9"
+  },
+  "id": 100,
+  "id_hex": "0x64",
+  "value": "xdai",
+  "description": "xdai",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ba"
+  },
+  "id": 106,
+  "id_hex": "0x6a",
+  "value": "velas",
+  "description": "velas",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9bb"
+  },
+  "id": 108,
+  "id_hex": "0x6c",
+  "value": "thundercore",
+  "description": "thundercore",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9bc"
+  },
+  "id": 122,
+  "id_hex": "0x7a",
+  "value": "fuse",
+  "description": "fuse",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9bd"
+  },
+  "id": 128,
+  "id_hex": "0x80",
+  "value": "heco",
+  "description": "heco",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9be"
+  },
+  "id": 148,
+  "id_hex": "0x94",
+  "value": "shimmer_evm",
+  "description": "shimmer_evm",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9bf"
+  },
+  "id": 169,
+  "id_hex": "0xa9",
+  "value": "manta",
+  "description": "manta",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9c0"
+  },
+  "id": 200,
+  "id_hex": "0xc8",
+  "value": "xdaiarb",
+  "description": "xdaiarb",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9c1"
+  },
+  "id": 204,
+  "id_hex": "0xcc",
+  "value": "op_bnb",
+  "description": "op_bnb",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9c2"
+  },
+  "id": 246,
+  "id_hex": "0xf6",
+  "value": "energyweb",
+  "description": "energyweb",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9c3"
+  },
+  "id": 248,
+  "id_hex": "0xf8",
+  "value": "oasys",
+  "description": "oasys",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9c4"
+  },
+  "id": 250,
+  "id_hex": "0xfa",
+  "value": "fantom",
+  "description": "fantom",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9c5"
+  },
+  "id": 269,
+  "id_hex": "0x10d",
+  "value": "hpb",
+  "description": "hpb",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9c6"
+  },
+  "id": 288,
+  "id_hex": "0x120",
+  "value": "boba",
+  "description": "boba",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9c7"
+  },
+  "id": 311,
+  "id_hex": "0x137",
+  "value": "omax",
+  "description": "omax",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9c8"
+  },
+  "id": 314,
+  "id_hex": "0x13a",
+  "value": "filecoin",
+  "description": "filecoin",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9c9"
+  },
+  "id": 321,
+  "id_hex": "0x141",
+  "value": "kucoin",
+  "description": "kucoin",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ca"
+  },
+  "id": 324,
+  "id_hex": "0x144",
+  "value": "era",
+  "description": "era",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9cb"
+  },
+  "id": 336,
+  "id_hex": "0x150",
+  "value": "shiden",
+  "description": "shiden",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9cc"
+  },
+  "id": 361,
+  "id_hex": "0x169",
+  "value": "theta",
+  "description": "theta",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9cd"
+  },
+  "id": 369,
+  "id_hex": "0x171",
+  "value": "pulse",
+  "description": "pulse",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ce"
+  },
+  "id": 416,
+  "id_hex": "0x1a0",
+  "value": "sx",
+  "description": "sx",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9cf"
+  },
+  "id": 534,
+  "id_hex": "0x216",
+  "value": "candle",
+  "description": "candle",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9d0"
+  },
+  "id": 570,
+  "id_hex": "0x23a",
+  "value": "rollux",
+  "description": "rollux",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9d1"
+  },
+  "id": 592,
+  "id_hex": "0x250",
+  "value": "astar",
+  "description": "astar",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9d2"
+  },
+  "id": 820,
+  "id_hex": "0x334",
+  "value": "callisto",
+  "description": "callisto",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9d3"
+  },
+  "id": 888,
+  "id_hex": "0x378",
+  "value": "wanchain",
+  "description": "wanchain",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9d4"
+  },
+  "id": 1030,
+  "id_hex": "0x406",
+  "value": "conflux",
+  "description": "conflux",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9d5"
+  },
+  "id": 1088,
+  "id_hex": "0x440",
+  "value": "metis",
+  "description": "metis",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9d6"
+  },
+  "id": 1101,
+  "id_hex": "0x44d",
+  "value": "polygon_zkevm",
+  "description": "polygon_zkevm",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9d7"
+  },
+  "id": 1116,
+  "id_hex": "0x45c",
+  "value": "core",
+  "description": "core",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9d8"
+  },
+  "id": 1231,
+  "id_hex": "0x4cf",
+  "value": "ultron",
+  "description": "ultron",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9d9"
+  },
+  "id": 1234,
+  "id_hex": "0x4d2",
+  "value": "step",
+  "description": "step",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9da"
+  },
+  "id": 1284,
+  "id_hex": "0x504",
+  "value": "moonbeam",
+  "description": "moonbeam",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9db"
+  },
+  "id": 1285,
+  "id_hex": "0x505",
+  "value": "moonriver",
+  "description": "moonriver",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9dc"
+  },
+  "id": 1440,
+  "id_hex": "0x5a0",
+  "value": "living assets mainnet",
+  "description": "living assets mainnet",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9dd"
+  },
+  "id": 1559,
+  "id_hex": "0x617",
+  "value": "tenet",
+  "description": "tenet",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9de"
+  },
+  "id": 1975,
+  "id_hex": "0x7b7",
+  "value": "onus",
+  "description": "onus",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9df"
+  },
+  "id": 2000,
+  "id_hex": "0x7d0",
+  "value": "dogechain",
+  "description": "dogechain",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9e0"
+  },
+  "id": 2222,
+  "id_hex": "0x8ae",
+  "value": "kava",
+  "description": "kava",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9e1"
+  },
+  "id": 2332,
+  "id_hex": "0x91c",
+  "value": "soma",
+  "description": "soma",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9e2"
+  },
+  "id": 4337,
+  "id_hex": "0x10f1",
+  "value": "beam",
+  "description": "beam",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9e3"
+  },
+  "id": 4689,
+  "id_hex": "0x1251",
+  "value": "iotex",
+  "description": "iotex",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9e4"
+  },
+  "id": 5000,
+  "id_hex": "0x1388",
+  "value": "mantle",
+  "description": "mantle",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9e5"
+  },
+  "id": 5050,
+  "id_hex": "0x13ba",
+  "value": "xlc",
+  "description": "xlc",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9e6"
+  },
+  "id": 5551,
+  "id_hex": "0x15af",
+  "value": "nahmii",
+  "description": "nahmii",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9e7"
+  },
+  "id": 6969,
+  "id_hex": "0x1b39",
+  "value": "tombchain",
+  "description": "tombchain",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9e8"
+  },
+  "id": 7700,
+  "id_hex": "0x1e14",
+  "value": "canto",
+  "description": "canto",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9e9"
+  },
+  "id": 8217,
+  "id_hex": "0x2019",
+  "value": "klaytn",
+  "description": "klaytn",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ea"
+  },
+  "id": 8453,
+  "id_hex": "0x2105",
+  "value": "base",
+  "description": "base",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9eb"
+  },
+  "id": 8899,
+  "id_hex": "0x22c3",
+  "value": "jbc",
+  "description": "jbc",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ec"
+  },
+  "id": 9001,
+  "id_hex": "0x2329",
+  "value": "evmos",
+  "description": "evmos",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ed"
+  },
+  "id": 9790,
+  "id_hex": "0x263e",
+  "value": "carbon",
+  "description": "carbon",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ee"
+  },
+  "id": 10000,
+  "id_hex": "0x2710",
+  "value": "smartbch",
+  "description": "smartbch",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ef"
+  },
+  "id": 15551,
+  "id_hex": "0x3cbf",
+  "value": "loop",
+  "description": "loop",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9f0"
+  },
+  "id": 17777,
+  "id_hex": "0x4571",
+  "value": "eos_evm",
+  "description": "eos_evm",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9f1"
+  },
+  "id": 32520,
+  "id_hex": "0x7f08",
+  "value": "bitgert",
+  "description": "bitgert",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9f2"
+  },
+  "id": 32659,
+  "id_hex": "0x7f93",
+  "value": "fusion",
+  "description": "fusion",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9f3"
+  },
+  "id": 32769,
+  "id_hex": "0x8001",
+  "value": "zilliqa",
+  "description": "zilliqa",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9f4"
+  },
+  "id": 42220,
+  "id_hex": "0xa4ec",
+  "value": "celo",
+  "description": "celo",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9f5"
+  },
+  "id": 42262,
+  "id_hex": "0xa516",
+  "value": "oasis",
+  "description": "oasis",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9f6"
+  },
+  "id": 43114,
+  "id_hex": "0xa86a",
+  "value": "avalanche",
+  "description": "avalanche",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9f7"
+  },
+  "id": 47805,
+  "id_hex": "0xbabd",
+  "value": "rei",
+  "description": "rei",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9f8"
+  },
+  "id": 55555,
+  "id_hex": "0xd903",
+  "value": "reichain",
+  "description": "reichain",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9f9"
+  },
+  "id": 59144,
+  "id_hex": "0xe708",
+  "value": "linea",
+  "description": "Linea",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9fa"
+  },
+  "id": 71402,
+  "id_hex": "0x116ea",
+  "value": "godwoken",
+  "description": "godwoken",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9fb"
+  },
+  "id": 333999,
+  "id_hex": "0x518af",
+  "value": "polis",
+  "description": "polis",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9fc"
+  },
+  "id": 420420,
+  "id_hex": "0x66a44",
+  "value": "kekchain",
+  "description": "kekchain",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9fd"
+  },
+  "id": 888888,
+  "id_hex": "0xd9038",
+  "value": "vision",
+  "description": "vision",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9fe"
+  },
+  "id": 245022934,
+  "id_hex": "0xe9ac0d6",
+  "value": "neon",
+  "description": "neon",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dd9ff"
+  },
+  "id": 1313161554,
+  "id_hex": "0x4e454152",
+  "value": "aurora",
+  "description": "aurora",
+  "isMainnet": true
+},
+{
+  "_id": {
+    "$oid": "65d10adb3cd0e5823d7dda00"
+  },
+  "id": 1666600000,
+  "id_hex": "0x63564c40",
+  "value": "harmony",
+  "description": "harmony",
+  "isMainnet": true
+}]
