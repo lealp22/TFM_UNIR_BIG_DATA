@@ -18,12 +18,12 @@ APIKEY_ETHERSCAN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 MONGODB_SERVER=mongodb://localhost:27017/
 ````
 
-Otra alternativa es carga las colecciones de la base de datos de MongoDB utilizando los ficheros ***web3_tfm.**** disponibles en el directorio ***\data\load_mongo***
+Otra alternativa es cargar las colecciones de la base de datos de MongoDB utilizando los ficheros ***web3_tfm.**** disponibles en el directorio ***\data\load_mongo***
 
 Indicar que, debido al gran tamaño del fichero *web3_tfm.account_transactions.json* (900 Mb), este ha sido comprimido en formato ZIP y particionado en trozos de 10 Mb para poderlo subir a GitHub
 
 En el siguiente link se puede descargar el cuadro de mando creado con PowerBI para la viualización de los datos (no se ha podido almacenar en GitHub por ocupar más de 100Mb):
 - **[Cuadro_de_mando.pbix](https://drive.google.com/file/d/1HHcurbpmCao7ZdjpYYFwWYYvgg3mFHQQ/view?usp=sharing)** 👈🏽
 
-En caso de que no se disponga de PowerBI o no sea posible descargar el fichero .pbix, también se incluye el cuadro de mando en formado PDF:
+En caso de que no se disponga de PowerBI o no sea posible descargar el fichero *.pbix*, también se incluye el cuadro de mando en formado PDF:
 - **Cuadro_de_mando.pdf**
